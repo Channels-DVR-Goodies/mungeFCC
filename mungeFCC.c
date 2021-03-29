@@ -10,29 +10,27 @@
 #include <string.h>
 #include <ctype.h>
 
-const char * kPrefix = "struct FCCStationData[] = \n{\n";
-const char * kSuffix = "};\n";
+#define kHeaderFilename "fccdata.h"
+const char * kHeaderPrefix = "struct FCCStationData[] = \n{\n";
+const char * kHeaderSuffix = "};\n";
 
-#define ServiceType( l1, l2, l3 ) (( l1 << 16) | (l2 << 8) | l3)
+#define kHashFilename "fccdata.hash"
+const char * kHashPrefix = "\n"
+    "prefix = \"US\"\n"
+    "mappings : {\n"
+    "    ignoreCase = true\n"
+    "    Separator = \" :|()[]-\"\n"
+    "}\n\n"
+    "keywords = [\n";
 
-typedef enum
-{
-    kServiceUnSet = 0,
-    kServiceLPA = ServiceType( 'L', 'P', 'A' ),
-    kServiceLPD = ServiceType( 'L', 'P', 'D' ),
-    kServiceLPT = ServiceType( 'L', 'P', 'T' ),
-    kServiceLPX = ServiceType( 'L', 'P', 'X' )
-} tServiceType;
+const char * kHashSuffix = "]\n";
 
-typedef struct pStation {
-    struct pStation * next;
-    const char * callsign;
-    tServiceType service;
-    const char * rfChan;
-    const char * logicalChan;
-    const char * city;
-    const char * state;
-    const char * country;
+typedef struct sStation {
+    struct sStation * next;
+    const char *      callsign;
+    const char *      city;
+    const char *      state;
+    int               logicalChan;
 } tStation;
 
 int lenTrimmed( char * field, unsigned int length )
@@ -68,17 +66,6 @@ void toTitleCase( char * title )
     }
 }
 
-tServiceType decodeService( char * service )
-{
-    unsigned int serviceType;
-    unsigned char * p = (unsigned char *) service;
-
-    serviceType = *p++;
-    serviceType = (serviceType << 8) | *p++;
-    serviceType = (serviceType << 8) | *p;
-    return (tServiceType)serviceType;
-}
-
 int processLine( const char * line, tStation * station )
 {
     int result = 0;
@@ -112,7 +99,7 @@ int processLine( const char * line, tStation * station )
 
         switch ( fieldNum )
         {
-        case 2: // station callsign
+        case 1: // station callsign
             {
                 char * dash = strchr( field, '-' );
                 if ( dash != NULL) { *dash = '\0'; }
@@ -121,21 +108,17 @@ int processLine( const char * line, tStation * station )
             }
             break;
 
-        case 4: // station type
-            station->service = decodeService( field );
-            break;
-
-        case 11: // city
+        case 2: // city
             toTitleCase( field );
             station->city = strdup( field );
             break;
 
-        case 12: // state
+        case 3: // state
             station->state = strdup( field );
             break;
 
-        case 13: // country
-            station->country = strdup( field );
+        case 4: // logical channel
+            station->logicalChan = atoi(field);
             break;
 
         default:
@@ -176,44 +159,55 @@ int main( int argc, const char *argv[] )
         {
             processLine( line, station );
 
-            switch ( station->service )
-            {
-            case kServiceLPA:
-            case kServiceLPD:
-            case kServiceLPT:
-            case kServiceLPX:
-                break;
+            tStation * stn  = head;
+            tStation * prev = NULL;
 
-            default:
+            while ( stn != NULL && strcmp( stn->callsign, station->callsign ) != 0 )
+            {
+                prev = stn;
+                stn  = stn->next;
+            }
+            if ( stn == NULL)
+            {
+                if ( prev != NULL )
                 {
-                    tStation * stn = head;
-                    while ( stn != NULL)
-                    {
-                        if ( strcmp( stn->callsign, station->callsign ) == 0 )
-                             { break; }
-                        else { stn = stn->next; }
-                    }
-                    if ( stn == NULL)
-                    {
-                        station->next = head;
-                        head = station;
-                    }
+                    /* add to end of the list */
+                    station->next = prev->next;
+                    prev->next    = station;
                 }
-                break;
+                else
+                {
+                    /* add first entry to empty list */
+                    station->next = NULL;
+                    head          = station;
+                }
             }
         }
     }
 
-    printf( "%s", kPrefix );
-    for ( station = head; station != NULL; station = station->next )
-    {
-        fprintf( stdout, "\t{ \"%s\", \"%s\", \"%s\", \"%s\" },\n",
-                         station->callsign,
-                         station->city,
-                         station->state,
-                         station->country );
+    FILE * hashFile = fopen(kHashFilename, "w");
+    if (hashFile != NULL) {
+        fprintf(hashFile, "%s", kHashPrefix);
+        for (station = head; station != NULL; station = station->next)
+        {
+            fprintf(hashFile, "\t\"%s\"%c\n", station->callsign, station->next != NULL ? ',' : ' ');
+        }
+        fprintf(hashFile, "%s", kHashSuffix);
+        fclose(hashFile);
     }
-    printf( "%s", kSuffix );
+
+    FILE * headerFile = fopen( kHeaderFilename, "w" );
+    if (headerFile != NULL)
+    {
+        fprintf( headerFile, "%s", kHeaderPrefix);
+        for (station = head; station != NULL; station = station->next) {
+            fprintf(headerFile, "\t[kUSCallsign%-4s] = { \"%s\"%*c %2d, \"%s\"%*c kUSState%s }%c\n", station->callsign,
+                    station->callsign, (int)(strlen(station->callsign) - 5), ',', station->logicalChan, station->city,
+                    (int)(strlen(station->city) - 20), ',', station->state, station->next != NULL ? ',' : ' ');
+        }
+        fprintf( headerFile, "%s", kHeaderSuffix);
+        fclose(headerFile);
+    }
 
     return result;
 }
