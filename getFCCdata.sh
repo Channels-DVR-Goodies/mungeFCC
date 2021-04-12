@@ -7,3 +7,5 @@ set -x
 curl --cipher 'DEFAULT:!DH' 'https://transition.fcc.gov/fcc-bin/tvq?serv=DTV&country=us&list=4' \
   | cut --delimiter '|' --only-delimited -f2,11-12,39 \
   | sort --unique > fccdata.txt
+
+curl --verbose --cipher 'DEFAULT:!DH' -o facility.zip "https://transition.fcc.gov/Bureaus/MB/Databases/cdbs/facility.zip"

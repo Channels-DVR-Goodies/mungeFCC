@@ -1,0 +1,43 @@
+//
+//
+
+prefix = "Affiliate"
+
+# the character mapping array
+# array starts out mapping one-to-one, i.e. input = output
+#
+mappings:
+{
+    # make the generated hashes case-insensitive
+    ignoreCase = true
+
+    # mark these characters as equivalent separators
+    Separator = ""
+}
+
+# the strings to hash into the enum
+# if there is a comma, first string is for symbol, subsequent strings are to hash
+#
+keywords = [
+    "ABC",
+    "BBC",
+    "CBC",
+    "CBS",
+    "CTV",
+    "CW,CW,The CW,The CW Network,CW Television Network",
+    "Daystar",
+    "ETV",
+    "Fox",
+    "Ind,Ind,Ind.,Independent,None,N/A",
+    "Ion",
+    "ITV",
+    "MyTV,MyTV,My Network,My Network TV,MyNetwork,MyNetworkTV,MyNetwork TV",
+    "NBC",
+    "PBS,PBS,Public Broadcasting Service",
+    "Sky",
+    "STV",
+    "Trinity,Trinity,Trinity Broadcasting Network,TBN",
+    "Telemundo,Telemundo,Telmundo",
+    "UniMas,UniMas,UniMás",
+    "Univision,Univision,Unvision"
+]
