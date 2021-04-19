@@ -20,6 +20,7 @@ add_custom_target(hashes ALL DEPENDS ${OUTFILES})
 
 add_executable( mungeFCC
                 mungeFCC.c mungeFCC.h
-                affiliate.h)
+                affiliate.h
+                nielsenDMA.h )
 
 target_link_libraries(mungeFCC hashstrings)

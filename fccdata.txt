@@ -1,0 +1,1755 @@
+KAAH-TV     |HONOLULU                 |HI |26 
+KAAL        |AUSTIN                   |MN |6  
+KAAS-TV     |SALINA                   |KS |18 
+KABB        |SAN ANTONIO              |TX |29 
+KABC-TV     |LOS ANGELES              |CA |7  
+KACV-TV     |AMARILLO                 |TX |2  
+KADN-TV     |LAFAYETTE                |LA |15 
+KAEF-TV     |ARCATA                   |CA |23 
+KAET        |PHOENIX                  |AZ |8  
+KAFT        |FAYETTEVILLE             |AR |13 
+KAID        |BOISE                    |ID |4  
+KAII-TV     |WAILUKU                  |HI |7  
+KAIL        |FRESNO                   |CA |53 
+KAIT        |JONESBORO                |AR |8  
+KAJB        |CALIPATRIA               |CA |54 
+KAKE        |WICHITA                  |KS |10 
+KAKM        |ANCHORAGE                |AK |7  
+KAKW-DT     |KILLEEN                  |TX |62 
+KALB-TV     |ALEXANDRIA               |LA |5  
+KALO        |HONOLULU                 |HI |38 
+KAMC        |LUBBOCK                  |TX |28 
+KAME-TV     |RENO                     |NV |21 
+KAMR-TV     |AMARILLO                 |TX |4  
+KAMU-TV     |COLLEGE STATION          |TX |15 
+KAPP        |YAKIMA                   |WA |35 
+KARD        |WEST MONROE              |LA |14 
+KARE        |MINNEAPOLIS              |MN |11 
+KARK-TV     |LITTLE ROCK              |AR |4  
+KARZ-TV     |LITTLE ROCK              |AR |42 
+KASA-TV     |SANTA FE                 |NM |2  
+KASN        |PINE BLUFF               |AR |38 
+KASW        |PHOENIX                  |AZ |61 
+KASY-TV     |ALBUQUERQUE              |NM |50 
+KATC        |LAFAYETTE                |LA |3  
+KATN        |FAIRBANKS                |AK |2  
+KATU        |PORTLAND                 |OR |2  
+KATV        |LITTLE ROCK              |AR |7  
+KAUT-TV     |OKLAHOMA CITY            |OK |43 
+KAUZ-TV     |WICHITA FALLS            |TX |6  
+KAVU-TV     |VICTORIA                 |TX |25 
+KAWB        |BRAINERD                 |MN |22 
+KAWE        |BEMIDJI                  |MN |9  
+KAYU-TV     |SPOKANE                  |WA |28 
+KAZA-TV     |AVALON                   |CA |54 
+KAZD        |LAKE DALLAS              |TX |55 
+KAZQ        |ALBUQUERQUE              |NM |32 
+KAZT-TV     |PRESCOTT                 |AZ |7  
+KBAK-TV     |BAKERSFIELD              |CA |29 
+KBCA        |ALEXANDRIA               |LA |41 
+KBCB        |BELLINGHAM               |WA |24 
+KBCW        |SAN FRANCISCO            |CA |44 
+KBDI-TV     |BROOMFIELD               |CO |12 
+KBEH        |GARDEN GROVE             |CA |63 
+KBFD-DT     |HONOLULU                 |HI |32 
+KBGS-TV     |BILLINGS                 |MT |16 
+KBHE-TV     |RAPID CITY               |SD |9  
+KBIM-TV     |ROSWELL                  |NM |10 
+KBIN-TV     |COUNCIL BLUFFS           |IA |32 
+KBJR-TV     |SUPERIOR                 |WI |6  
+KBLN-TV     |GRANTS PASS              |OR |30 
+KBLR        |PARADISE                 |NV |39 
+KBME-TV     |BISMARCK                 |ND |3  
+KBMT        |BEAUMONT                 |TX |12 
+KBMY        |BISMARCK                 |ND |17 
+KBOI-TV     |BOISE                    |ID |2  
+KBRR        |THIEF RIVER FALLS        |MN |10 
+KBSD-DT     |ENSIGN                   |KS |6  
+KBSH-DT     |HAYS                     |KS |7  
+KBSI        |CAPE GIRARDEAU           |MO |23 
+KBSL-DT     |GOODLAND                 |KS |10 
+KBSV        |CERES                    |CA |23 
+KBTC-TV     |TACOMA                   |WA |28 
+KBTV-TV     |PORT ARTHUR              |TX |4  
+KBTX-TV     |BRYAN                    |TX |3  
+KBVO        |LLANO                    |TX |14 
+KBVU        |EUREKA                   |CA |29 
+KBYU-TV     |PROVO                    |UT |11 
+KCAL-TV     |LOS ANGELES              |CA |9  
+KCAU-TV     |SIOUX CITY               |IA |9  
+KCBA        |SALINAS                  |CA |35 
+KCBD        |LUBBOCK                  |TX |11 
+KCBS-TV     |LOS ANGELES              |CA |2  
+KCBY-TV     |COOS BAY                 |OR |11 
+KCCI        |DES MOINES               |IA |8  
+KCCW-TV     |WALKER                   |MN |12 
+KCDO-TV     |STERLING                 |CO |3  
+KCDT        |COEUR D'ALENE            |ID |26 
+KCEB        |LONGVIEW                 |TX |54 
+KCEC        |BOULDER                  |CO |14 
+KCEN-TV     |TEMPLE                   |TX |6  
+KCET        |LOS ANGELES              |CA |28 
+KCFW-TV     |KALISPELL                |MT |9  
+KCGE-DT     |CROOKSTON                |MN |16 
+KCHF        |SANTA FE                 |NM |11 
+KCIT        |AMARILLO                 |TX |14 
+KCKA        |CENTRALIA                |WA |15 
+KCLO-TV     |RAPID CITY               |SD |15 
+KCNC-TV     |DENVER                   |CO |4  
+KCNS        |SAN FRANCISCO            |CA |38 
+KCOP-TV     |LOS ANGELES              |CA |13 
+KCOS        |EL PASO                  |TX |13 
+KCOY-TV     |SANTA MARIA              |CA |12 
+KCPQ        |TACOMA                   |WA |13 
+KCPT        |KANSAS CITY              |MO |19 
+KCRA-TV     |SACRAMENTO               |CA |3  
+KCRG-TV     |CEDAR RAPIDS             |IA |9  
+KCSD-TV     |SIOUX FALLS              |SD |23 
+KCSG        |CEDAR CITY               |UT |8  
+KCTS-TV     |SEATTLE                  |WA |9  
+KCTV        |KANSAS CITY              |MO |5  
+KCVU        |PARADISE                 |CA |30 
+KCWC-DT     |LANDER                   |WY |4  
+KCWE        |KANSAS CITY              |MO |29 
+KCWI-TV     |AMES                     |IA |23 
+KCWV        |DULUTH                   |MN |27 
+KCWX        |FREDERICKSBURG           |TX |2  
+KCWY-DT     |CASPER                   |WY |13 
+KDAF        |DALLAS                   |TX |33 
+KDBC-TV     |EL PASO                  |TX |4  
+KDCK        |DODGE CITY               |KS |21 
+KDCU-DT     |DERBY                    |KS |46 
+KDEN-TV     |LONGMONT                 |CO |25 
+KDFI        |DALLAS                   |TX |27 
+KDFW        |DALLAS                   |TX |4  
+KDIN-TV     |DES MOINES               |IA |11 
+KDKA-TV     |PITTSBURGH               |PA |2  
+KDKF        |KLAMATH FALLS            |OR |31 
+KDLH        |DULUTH                   |MN |3  
+KDLO-TV     |FLORENCE                 |SD |3  
+KDLT-TV     |SIOUX FALLS              |SD |46 
+KDLV-TV     |MITCHELL                 |SD |5  
+KDMD        |ANCHORAGE                |AK |33 
+KDMI        |DES MOINES               |IA |56 
+KDNL-TV     |ST. LOUIS                |MO |30 
+KDOC-TV     |ANAHEIM                  |CA |56 
+KDOR-TV     |BARTLESVILLE             |OK |17 
+KDRV        |MEDFORD                  |OR |12 
+KDSD-TV     |ABERDEEN                 |SD |16 
+KDSE        |DICKINSON                |ND |9  
+KDSM-TV     |DES MOINES               |IA |17 
+KDTN        |DENTON                   |TX |2  
+KDTP        |HOLBROOK                 |AZ |11 
+KDTV-DT     |SAN FRANCISCO            |CA |14 
+KDTX-TV     |DALLAS                   |TX |58 
+KDUH-TV     |SCOTTSBLUFF              |NE |4  
+KDVR        |DENVER                   |CO |31 
+KECI-TV     |MISSOULA                 |MT |13 
+KECY-TV     |EL CENTRO                |CA |9  
+KEDT        |CORPUS CHRISTI           |TX |16 
+KEET        |EUREKA                   |CA |13 
+KELO-TV     |SIOUX FALLS              |SD |11 
+KEMO-TV     |FREMONT                  |CA |50 
+KEMV        |MOUNTAIN VIEW            |AR |6  
+KENS        |SAN ANTONIO              |TX |5  
+KENV-DT     |ELKO                     |NV |10 
+KENW        |PORTALES                 |NM |3  
+KEPB-TV     |EUGENE                   |OR |28 
+KEPR-TV     |PASCO                    |WA |19 
+KERA-TV     |DALLAS                   |TX |13 
+KERO-TV     |BAKERSFIELD              |CA |23 
+KESD-TV     |BROOKINGS                |SD |8  
+KESQ-TV     |PALM SPRINGS             |CA |42 
+KETA-TV     |OKLAHOMA CITY            |OK |13 
+KETC        |ST. LOUIS                |MO |9  
+KETD        |CASTLE ROCK              |CO |53 
+KETG        |ARKADELPHIA              |AR |9  
+KETH-TV     |HOUSTON                  |TX |14 
+KETK-TV     |JACKSONVILLE             |TX |56 
+KETS        |LITTLE ROCK              |AR |2  
+KETV        |OMAHA                    |NE |7  
+KETZ        |EL DORADO                |AR |12 
+KEVN-TV     |RAPID CITY               |SD |7  
+KEYC-TV     |MANKATO                  |MN |12 
+KEYE-TV     |AUSTIN                   |TX |42 
+KEYT-TV     |SANTA BARBARA            |CA |3  
+KEYU        |BORGER                   |TX |31 
+KEZI        |EUGENE                   |OR |9  
+KFBB-TV     |GREAT FALLS              |MT |5  
+KFCT        |FORT COLLINS             |CO |22 
+KFDA-TV     |AMARILLO                 |TX |10 
+KFDM        |BEAUMONT                 |TX |6  
+KFDX-TV     |WICHITA FALLS            |TX |3  
+KFFV        |SEATTLE                  |WA |44 
+KFFX-TV     |PENDLETON                |OR |11 
+KFJX        |PITTSBURG                |KS |14 
+KFMB-TV     |SAN DIEGO                |CA |8  
+KFME        |FARGO                    |ND |13 
+KFNB        |CASPER                   |WY |20 
+KFNE        |RIVERTON                 |WY |10 
+KFNR        |RAWLINS                  |WY |11 
+KFOR-TV     |OKLAHOMA CITY            |OK |4  
+KFOX-TV     |EL PASO                  |TX |14 
+KFPH-DT     |FLAGSTAFF                |AZ |13 
+KFPX-TV     |NEWTON                   |IA |39 
+KFQX        |GRAND JUNCTION           |CO |4  
+KFRE-TV     |SANGER                   |CA |59 
+KFSF-DT     |VALLEJO                  |CA |66 
+KFSM-TV     |FORT SMITH               |AR |5  
+KFSN-TV     |FRESNO                   |CA |30 
+KFTA-TV     |FORT SMITH               |AR |24 
+KFTC        |BEMIDJI                  |MN |26 
+KFTH-DT     |ALVIN                    |TX |67 
+KFTR-DT     |ONTARIO                  |CA |46 
+KFTS        |KLAMATH FALLS            |OR |22 
+KFTU-DT     |DOUGLAS                  |AZ |3  
+KFTV-DT     |HANFORD                  |CA |21 
+KFVE        |HONOLULU                 |HI |9  
+KFVE        |KAILUA-KONA              |HI |6  
+KFVS-TV     |CAPE GIRARDEAU           |MO |12 
+KFWD        |FORT WORTH               |TX |52 
+KFXA        |CEDAR RAPIDS             |IA |28 
+KFXB-TV     |DUBUQUE                  |IA |40 
+KFXK-TV     |LONGVIEW                 |TX |51 
+KFXL-TV     |LINCOLN                  |NE |51 
+KFYR-TV     |BISMARCK                 |ND |5  
+KGAN        |CEDAR RAPIDS             |IA |2  
+KGBT-TV     |HARLINGEN                |TX |4  
+KGBY        |GRAND JUNCTION           |CO |20 
+KGCW        |BURLINGTON               |IA |26 
+KGEB        |TULSA                    |OK |53 
+KGET-TV     |BAKERSFIELD              |CA |17 
+KGFE        |GRAND FORKS              |ND |2  
+KGIN        |GRAND ISLAND             |NE |11 
+KGLA-DT     |HAMMOND                  |LA |42 
+KGMB        |HONOLULU                 |HI |5  
+KGMC        |MERCED                   |CA |43 
+KGMD-TV     |HILO                     |HI |9  
+KGMV        |WAILUKU                  |HI |3  
+KGNS-TV     |LAREDO                   |TX |8  
+KGO-TV      |SAN FRANCISCO            |CA |7  
+KGPE        |FRESNO                   |CA |47 
+KGPX-TV     |SPOKANE                  |WA |34 
+KGTF        |AGANA                    |GU |12 
+KGTV        |SAN DIEGO                |CA |10 
+KGUN-TV     |TUCSON                   |AZ |9  
+KGWC-TV     |CASPER                   |WY |14 
+KGWL-TV     |LANDER                   |WY |5  
+KGWN-TV     |CHEYENNE                 |WY |5  
+KGW         |PORTLAND                 |OR |8  
+KGWR-TV     |ROCK SPRINGS             |WY |13 
+KHAW-TV     |HILO                     |HI |11 
+KHBC-TV     |HILO                     |HI |2  
+KHBS        |FORT SMITH               |AR |40 
+KHCE-TV     |SAN ANTONIO              |TX |23 
+KHET        |HONOLULU                 |HI |11 
+KHGI-TV     |KEARNEY                  |NE |13 
+KHIN        |RED OAK                  |IA |36 
+KHMT        |HARDIN                   |MT |4  
+KHNE-TV     |HASTINGS                 |NE |29 
+KHNL        |HONOLULU                 |HI |13 
+KHOG-TV     |FAYETTEVILLE             |AR |29 
+KHON-TV     |HONOLULU                 |HI |2  
+KHOU        |HOUSTON                  |TX |11 
+KHQA-TV     |HANNIBAL                 |MO |7  
+KHQ-TV      |SPOKANE                  |WA |6  
+KHRR        |TUCSON                   |AZ |40 
+KHSD-TV     |LEAD                     |SD |11 
+KHSL-TV     |CHICO                    |CA |12 
+KHVO        |HILO                     |HI |13 
+KIAH        |HOUSTON                  |TX |39 
+KICU-TV     |SAN JOSE                 |CA |36 
+KIDK        |IDAHO FALLS              |ID |3  
+KIDY        |SAN ANGELO               |TX |6  
+KIEM-TV     |EUREKA                   |CA |3  
+KIFI-TV     |IDAHO FALLS              |ID |8  
+KIII        |CORPUS CHRISTI           |TX |3  
+KIIN        |IOWA CITY                |IA |12 
+KIKU        |HONOLULU                 |HI |20 
+KILM        |INGLEWOOD                |CA |64 
+KIMA-TV     |YAKIMA                   |WA |29 
+KIMT        |MASON CITY               |IA |3  
+KINC        |LAS VEGAS                |NV |15 
+KING-TV     |SEATTLE                  |WA |5  
+KINT-TV     |EL PASO                  |TX |26 
+KION-TV     |MONTEREY                 |CA |46 
+KIPT        |TWIN FALLS               |ID |13 
+KIRO-TV     |SEATTLE                  |WA |7  
+KISU-TV     |POCATELLO                |ID |10 
+KITU-TV     |BEAUMONT                 |TX |34 
+KITV        |HONOLULU                 |HI |4  
+KIVI-TV     |NAMPA                    |ID |6  
+KIVV-TV     |LEAD                     |SD |5  
+KIXE-TV     |REDDING                  |CA |9  
+KJLA        |VENTURA                  |CA |57 
+KJNP-TV     |NORTH POLE               |AK |4  
+KJRE        |ELLENDALE                |ND |19 
+KJRH-TV     |TULSA                    |OK |2  
+KJRR        |JAMESTOWN                |ND |7  
+KJTL        |WICHITA FALLS            |TX |18 
+KJTV-TV     |LUBBOCK                  |TX |34 
+KJUD        |JUNEAU                   |AK |8  
+KJZZ-TV     |SALT LAKE CITY           |UT |14 
+KKAI        |KAILUA                   |HI |50 
+KKAP        |LITTLE ROCK              |AR |36 
+KKCO        |GRAND JUNCTION           |CO |11 
+KKJB        |BOISE                    |ID |39 
+KKPX-TV     |SAN JOSE                 |CA |65 
+KKTV        |COLORADO SPRINGS         |CO |11 
+KLAS-TV     |LAS VEGAS                |NV |8  
+KLAX-TV     |ALEXANDRIA               |LA |31 
+KLBK-TV     |LUBBOCK                  |TX |13 
+KLBY        |COLBY                    |KS |4  
+KLCS        |LOS ANGELES              |CA |58 
+KLCW-TV     |WOLFFORTH                |TX |22 
+KLDO-TV     |LAREDO                   |TX |27 
+KLEI-TV     |KAILUA-KONA              |HI |6  
+KLEI        |WAILUKU                  |HI |21 
+KLEW-TV     |LEWISTON                 |ID |3  
+KLFY-TV     |LAFAYETTE                |LA |10 
+KLJB        |DAVENPORT                |IA |18 
+KLKN        |LINCOLN                  |NE |8  
+KLNE-TV     |LEXINGTON                |NE |3  
+KLPA-TV     |ALEXANDRIA               |LA |25 
+KLPB-TV     |LAFAYETTE                |LA |24 
+KLRN        |SAN ANTONIO              |TX |9  
+KLRT-TV     |LITTLE ROCK              |AR |16 
+KLRU        |AUSTIN                   |TX |18 
+KLSR-TV     |EUGENE                   |OR |34 
+KLST        |SAN ANGELO               |TX |8  
+KLTJ        |GALVESTON                |TX |22 
+KLTL-TV     |LAKE CHARLES             |LA |18 
+KLTM-TV     |MONROE                   |LA |13 
+KLTS-TV     |SHREVEPORT               |LA |24 
+KLTV        |TYLER                    |TX |7  
+KLUJ-TV     |HARLINGEN                |TX |44 
+KLVX        |LAS VEGAS                |NV |10 
+KLWB        |NEW IBERIA               |LA |50 
+KLWY        |CHEYENNE                 |WY |27 
+KMAU        |WAILUKU                  |HI |12 
+KMAX-TV     |SACRAMENTO               |CA |31 
+KMBC-TV     |KANSAS CITY              |MO |9  
+KMBH        |HARLINGEN                |TX |60 
+KMCB        |COOS BAY                 |OR |23 
+KMCC        |LAUGHLIN                 |NV |34 
+KMCI-TV     |LAWRENCE                 |KS |38 
+KMCT-TV     |WEST MONROE              |LA |39 
+KMCY        |MINOT                    |ND |14 
+KMDE        |DEVILS LAKE              |ND |25 
+KMEB        |WAILUKU                  |HI |10 
+KMEG        |SIOUX CITY               |IA |14 
+KMEX-DT     |LOS ANGELES              |CA |34 
+KMGH-TV     |DENVER                   |CO |7  
+KMID        |MIDLAND                  |TX |2  
+KMIR-TV     |PALM SPRINGS             |CA |36 
+KMIZ        |COLUMBIA                 |MO |17 
+KMLM-DT     |ODESSA                   |TX |42 
+KMLU        |COLUMBIA                 |LA |11 
+KMNE-TV     |BASSETT                  |NE |7  
+KMOH-TV     |KINGMAN                  |AZ |6  
+KMOS-TV     |SEDALIA                  |MO |6  
+KMOT        |MINOT                    |ND |10 
+KMOV        |ST. LOUIS                |MO |4  
+KMPH-TV     |VISALIA                  |CA |26 
+KMPX        |DECATUR                  |TX |29 
+KMSB        |TUCSON                   |AZ |11 
+KMSP-TV     |MINNEAPOLIS              |MN |9  
+KMSS-TV     |SHREVEPORT               |LA |33 
+KMTP-TV     |SAN FRANCISCO            |CA |32 
+KMTR        |EUGENE                   |OR |16 
+KMTV-TV     |OMAHA                    |NE |3  
+KMTW        |HUTCHINSON               |KS |36 
+KMVT        |TWIN FALLS               |ID |11 
+KMVU-DT     |MEDFORD                  |OR |26 
+KMYA-DT     |CAMDEN                   |AR |49 
+KMYS        |KERRVILLE                |TX |35 
+KMYT-TV     |TULSA                    |OK |41 
+KMYU        |ST. GEORGE               |UT |12 
+KNAT-TV     |ALBUQUERQUE              |NM |23 
+KNAZ-TV     |FLAGSTAFF                |AZ |2  
+KNBC        |LOS ANGELES              |CA |4  
+KNBN        |RAPID CITY               |SD |21 
+KNCT        |BELTON                   |TX |46 
+KNDB        |BISMARCK                 |ND |26 
+KNDM        |MINOT                    |ND |24 
+KNDO        |YAKIMA                   |WA |23 
+KNDU        |RICHLAND                 |WA |25 
+KNHL        |HASTINGS                 |NE |5  
+KNIC-DT     |BLANCO                   |TX |17 
+KNIN-TV     |CALDWELL                 |ID |9  
+KNLC        |ST. LOUIS                |MO |24 
+KNLJ        |JEFFERSON CITY           |MO |25 
+KNMD-TV     |SANTA FE                 |NM |9  
+KNME-TV     |ALBUQUERQUE              |NM |5  
+KNMT        |PORTLAND                 |OR |24 
+KNOE-TV     |MONROE                   |LA |8  
+KNOP-TV     |NORTH PLATTE             |NE |2  
+KNPB        |RENO                     |NV |5  
+KNRR        |PEMBINA                  |ND |12 
+KNSD        |SAN DIEGO                |CA |39 
+KNSN-TV     |RENO                     |NV |21 
+KNSO        |CLOVIS                   |CA |51 
+KNTV        |SAN JOSE                 |CA |11 
+KNVA        |AUSTIN                   |TX |54 
+KNVN        |CHICO                    |CA |24 
+KNVO        |MCALLEN                  |TX |48 
+KNWA-TV     |ROGERS                   |AR |51 
+KNXT        |VISALIA                  |CA |49 
+KNXV-TV     |PHOENIX                  |AZ |15 
+KOAA-TV     |PUEBLO                   |CO |5  
+KOAB-TV     |BEND                     |OR |3  
+KOAC-TV     |CORVALLIS                |OR |7  
+KOAM-TV     |PITTSBURG                |KS |7  
+KOAT-TV     |ALBUQUERQUE              |NM |7  
+KOB         |ALBUQUERQUE              |NM |4  
+KOBF        |FARMINGTON               |NM |12 
+KOBI        |MEDFORD                  |OR |5  
+KOBR        |ROSWELL                  |NM |8  
+KOCB        |OKLAHOMA CITY            |OK |34 
+KOCE-TV     |HUNTINGTON BEACH         |CA |50 
+KOCM        |NORMAN                   |OK |46 
+KOCO-TV     |OKLAHOMA CITY            |OK |5  
+KOCW        |HOISINGTON               |KS |14 
+KODE-TV     |JOPLIN                   |MO |12 
+KOED-TV     |TULSA                    |OK |11 
+KOET        |EUFAULA                  |OK |3  
+KOFY-TV     |SAN FRANCISCO            |CA |20 
+KOGG        |WAILUKU                  |HI |15 
+KOHD        |BEND                     |OR |51 
+KOIN        |PORTLAND                 |OR |6  
+KOKH-TV     |OKLAHOMA CITY            |OK |25 
+KOKI-TV     |TULSA                    |OK |23 
+KOLD-TV     |TUCSON                   |AZ |13 
+KOLN        |LINCOLN                  |NE |10 
+KOLO-TV     |RENO                     |NV |8  
+KOLR        |SPRINGFIELD              |MO |10 
+KOMO-TV     |SEATTLE                  |WA |4  
+KOMU-TV     |COLUMBIA                 |MO |8  
+KONG        |EVERETT                  |WA |16 
+KOOD        |HAYS                     |KS |9  
+KOPB-TV     |PORTLAND                 |OR |10 
+KOPX-TV     |OKLAHOMA CITY            |OK |62 
+KORO        |CORPUS CHRISTI           |TX |28 
+KOSA-TV     |ODESSA                   |TX |7  
+KOTA-TV     |RAPID CITY               |SD |3  
+KOTI        |KLAMATH FALLS            |OR |2  
+KOTV-DT     |TULSA                    |OK |6  
+KOVR        |STOCKTON                 |CA |13 
+KOZJ        |JOPLIN                   |MO |26 
+KOZK        |SPRINGFIELD              |MO |21 
+KOZL-TV     |SPRINGFIELD              |MO |27 
+KPAX-TV     |MISSOULA                 |MT |8  
+KPAZ-TV     |PHOENIX                  |AZ |21 
+KPBS        |SAN DIEGO                |CA |15 
+KPBT-TV     |ODESSA                   |TX |36 
+KPCB-DT     |SNYDER                   |TX |17 
+KPDX        |VANCOUVER                |WA |49 
+KPEJ-TV     |ODESSA                   |TX |24 
+KPHO-TV     |PHOENIX                  |AZ |5  
+KPIC        |ROSEBURG                 |OR |4  
+KPIF        |POCATELLO                |ID |15 
+KPIX-TV     |SAN FRANCISCO            |CA |5  
+KPJK        |SAN MATEO                |CA |60 
+KPJR-TV     |GREELEY                  |CO |38 
+KPLC        |LAKE CHARLES             |LA |7  
+KPLO-TV     |RELIANCE                 |SD |6  
+KPLR-TV     |ST. LOUIS                |MO |11 
+KPMR        |SANTA BARBARA            |CA |38 
+KPNE-TV     |NORTH PLATTE             |NE |9  
+KPNX        |MESA                     |AZ |12 
+KPNZ        |OGDEN                    |UT |24 
+KPOB-TV     |POPLAR BLUFF             |MO |15 
+KPPX-TV     |TOLLESON                 |AZ |51 
+KPRC-TV     |HOUSTON                  |TX |2  
+KPRY-TV     |PIERRE                   |SD |4  
+KPSD-TV     |EAGLE BUTTE              |SD |13 
+KPTB-DT     |LUBBOCK                  |TX |16 
+KPTF-DT     |FARWELL                  |TX |18 
+KPTH        |SIOUX CITY               |IA |44 
+KPTM        |OMAHA                    |NE |42 
+KPTS        |HUTCHINSON               |KS |8  
+KPTV        |PORTLAND                 |OR |12 
+KPTW        |CASPER                   |WY |6  
+KPVI-DT     |POCATELLO                |ID |6  
+KPXB-TV     |CONROE                   |TX |49 
+KPXC-TV     |DENVER                   |CO |59 
+KPXD-TV     |ARLINGTON                |TX |68 
+KPXE-TV     |KANSAS CITY              |MO |50 
+KPXG-TV     |SALEM                    |OR |22 
+KPXJ        |MINDEN                   |LA |21 
+KPXL-TV     |UVALDE                   |TX |26 
+KPXM-TV     |ST. CLOUD                |MN |41 
+KPXN-TV     |SAN BERNARDINO           |CA |30 
+KPXO-TV     |KANEOHE                  |HI |66 
+KPXR-TV     |CEDAR RAPIDS             |IA |48 
+KQCA        |STOCKTON                 |CA |58 
+KQCD-TV     |DICKINSON                |ND |7  
+KQCK        |CHEYENNE                 |WY |33 
+KQCW-DT     |MUSKOGEE                 |OK |19 
+KQDS-TV     |DULUTH                   |MN |21 
+KQED        |SAN FRANCISCO            |CA |9  
+KQEH        |SAN JOSE                 |CA |54 
+KQET        |WATSONVILLE              |CA |25 
+KQIN        |DAVENPORT                |IA |36 
+KQSD-TV     |LOWRY                    |SD |11 
+KQTV        |ST. JOSEPH               |MO |2  
+KQUP        |PULLMAN                  |WA |24 
+KRBC-TV     |ABILENE                  |TX |9  
+KRBK        |OSAGE BEACH              |MO |49 
+KRCA        |RIVERSIDE                |CA |62 
+KRCB        |COTATI                   |CA |22 
+KRCG        |JEFFERSON CITY           |MO |13 
+KRCR-TV     |REDDING                  |CA |7  
+KRCW-TV     |SALEM                    |OR |32 
+KRDK-TV     |VALLEY CITY              |ND |4  
+KRDO-TV     |COLORADO SPRINGS         |CO |13 
+KREG-TV     |GLENWOOD SPRINGS         |CO |3  
+KREM        |SPOKANE                  |WA |2  
+KREN-TV     |RENO                     |NV |27 
+KREX-TV     |GRAND JUNCTION           |CO |5  
+KREY-TV     |MONTROSE                 |CO |10 
+KREZ-TV     |DURANGO                  |CO |6  
+KRGV-TV     |WESLACO                  |TX |5  
+KRII        |CHISHOLM                 |MN |11 
+KRIN        |WATERLOO                 |IA |32 
+KRIS-TV     |CORPUS CHRISTI           |TX |6  
+KRIV        |HOUSTON                  |TX |26 
+KRMA-TV     |DENVER                   |CO |6  
+KRMJ        |GRAND JUNCTION           |CO |18 
+KRMT        |DENVER                   |CO |41 
+KRMU        |DURANGO                  |CO |20 
+KRMZ        |STEAMBOAT SPRINGS        |CO |24 
+KRNE-TV     |MERRIMAN                 |NE |12 
+KRNV-DT     |RENO                     |NV |4  
+KRON-TV     |SAN FRANCISCO            |CA |4  
+KRPV-DT     |ROSWELL                  |NM |27 
+KRQE        |ALBUQUERQUE              |NM |13 
+KRSU-TV     |CLAREMORE                |OK |35 
+KRTN-TV     |DURANGO                  |CO |33 
+KRTV        |GREAT FALLS              |MT |3  
+KRWB-TV     |ROSWELL                  |NM |21 
+KRWF        |REDWOOD FALLS            |MN |43 
+KRWG-TV     |LAS CRUCES               |NM |22 
+KRXI-TV     |RENO                     |NV |11 
+KSAN-TV     |SAN ANGELO               |TX |3  
+KSAS-TV     |WICHITA                  |KS |24 
+KSAT-TV     |SAN ANTONIO              |TX |12 
+KSAX        |ALEXANDRIA               |MN |42 
+KSAZ-TV     |PHOENIX                  |AZ |10 
+KSBI        |OKLAHOMA CITY            |OK |52 
+KSBW        |SALINAS                  |CA |8  
+KSBY        |SAN LUIS OBISPO          |CA |6  
+KSCC        |CORPUS CHRISTI           |TX |38 
+KSCE        |EL PASO                  |TX |38 
+KSCI        |LONG BEACH               |CA |18 
+KSCW-DT     |WICHITA                  |KS |33 
+KSDK        |ST.                      |MO |5  
+KSEE        |FRESNO                   |CA |24 
+KSFY-TV     |SIOUX FALLS              |SD |13 
+KSGW-TV     |SHERIDAN                 |WY |12 
+KSHB-TV     |KANSAS CITY              |MO |41 
+KSHV-TV     |SHREVEPORT               |LA |45 
+KSIN-TV     |SIOUX CITY               |IA |27 
+KSIX-TV     |KAILUA-KONA              |HI |6  
+KSKN        |SPOKANE                  |WA |22 
+KSLA        |SHREVEPORT               |LA |12 
+KSL-TV      |SALT LAKE CITY           |UT |5  
+KSMN        |WORTHINGTON              |MN |20 
+KSMO-TV     |KANSAS CITY              |MO |62 
+KSMQ-TV     |AUSTIN                   |MN |15 
+KSMS-TV     |MONTEREY                 |CA |67 
+KSNB-TV     |SUPERIOR                 |NE |4  
+KSNC        |GREAT BEND               |KS |2  
+KSNF        |JOPLIN                   |MO |16 
+KSNG        |GARDEN CITY              |KS |11 
+KSNK        |MCCOOK                   |NE |8  
+KSNT        |TOPEKA                   |KS |27 
+KSNV        |LAS VEGAS                |NV |3  
+KSNW        |WICHITA                  |KS |3  
+KSPS-TV     |SPOKANE                  |WA |7  
+KSPX-TV     |SACRAMENTO               |CA |29 
+KSQA        |TOPEKA                   |KS |22 
+KSRE        |MINOT                    |ND |6  
+KSTC-TV     |MINNEAPOLIS              |MN |45 
+KSTF        |SCOTTSBLUFF              |NE |10 
+KSTP-TV     |ST. PAUL                 |MN |5  
+KSTR-DT     |IRVING                   |TX |49 
+KSTS        |SAN JOSE                 |CA |48 
+KSTU        |SALT LAKE CITY           |UT |13 
+KSTW        |TACOMA                   |WA |11 
+KSVI        |BILLINGS                 |MT |6  
+KSWB-TV     |SAN DIEGO                |CA |69 
+KSWK        |LAKIN                    |KS |3  
+KSWO-TV     |LAWTON                   |OK |7  
+KSWT        |YUMA                     |AZ |13 
+KSYS        |MEDFORD                  |OR |8  
+KTAB-TV     |ABILENE                  |TX |32 
+KTAJ-TV     |ST. JOSEPH               |MO |16 
+KTAL-TV     |TEXARKANA                |TX |6  
+KTAS        |SAN LUIS OBISPO          |CA |33 
+KTAZ        |PHOENIX                  |AZ |39 
+KTBC        |AUSTIN                   |TX |7  
+KTBN-TV     |SANTA ANA                |CA |40 
+KTBO-TV     |OKLAHOMA CITY            |OK |14 
+KTBS-TV     |SHREVEPORT               |LA |3  
+KTBU        |CONROE                   |TX |55 
+KTBW-TV     |TACOMA                   |WA |20 
+KTBY        |ANCHORAGE                |AK |4  
+KTCA-TV     |ST. PAUL                 |MN |2  
+KTCI-TV     |ST. PAUL                 |MN |17 
+KTCW        |ROSEBURG                 |OR |46 
+KTDO        |LAS CRUCES               |NM |48 
+KTEJ        |JONESBORO                |AR |19 
+KTEL-TV     |CARLSBAD                 |NM |25 
+KTEN        |ADA                      |OK |10 
+KTFD-TV     |DENVER                   |CO |50 
+KTFF-DT     |PORTERVILLE              |CA |61 
+KTFK-DT     |STOCKTON                 |CA |64 
+KTFN        |EL PASO                  |TX |65 
+KTFQ-DT     |ALBUQUERQUE              |NM |14 
+KTFQ-TV     |ALBUQUERQUE              |NM |41 
+KTHV        |LITTLE ROCK              |AR |11 
+KTIN        |FORT DODGE               |IA |21 
+KTIV        |SIOUX CITY               |IA |4  
+KTKA-TV     |TOPEKA                   |KS |49 
+KTLA        |LOS ANGELES              |CA |5  
+KTLM        |RIO GRANDE CITY          |TX |40 
+KTLN-TV     |PALO ALTO                |CA |68 
+KTMD        |GALVESTON                |TX |47 
+KTMF        |MISSOULA                 |MT |23 
+KTMW        |SALT LAKE CITY           |UT |20 
+KTNC-TV     |CONCORD                  |CA |42 
+KTNE-TV     |ALLIANCE                 |NE |13 
+KTNL-TV     |SITKA                    |AK |13 
+KTNV-TV     |LAS VEGAS                |NV |13 
+KTNW        |RICHLAND                 |WA |31 
+KTOO-TV     |JUNEAU                   |AK |3  
+KTPX-TV     |OKMULGEE                 |OK |44 
+KTRE        |LUFKIN                   |TX |9  
+KTRK-TV     |HOUSTON                  |TX |13 
+KTRV-TV     |NAMPA                    |ID |12 
+KTSC        |PUEBLO                   |CO |8  
+KTSD-TV     |PIERRE                   |SD |10 
+KTSF        |SAN FRANCISCO            |CA |26 
+KTSM-TV     |EL PASO                  |TX |9  
+KTTC        |ROCHESTER                |MN |10 
+KTTM        |HURON                    |SD |12 
+KTTU        |TUCSON                   |AZ |18 
+KTTV        |LOS ANGELES              |CA |11 
+KTTW        |SIOUX FALLS              |SD |17 
+KTTZ-TV     |LUBBOCK                  |TX |5  
+KTUL        |TULSA                    |OK |8  
+KTUU-TV     |ANCHORAGE                |AK |2  
+KTUZ-TV     |SHAWNEE                  |OK |30 
+KTVA        |ANCHORAGE                |AK |11 
+KTVB        |BOISE                    |ID |7  
+KTVC        |ROSEBURG                 |OR |36 
+KTVD        |DENVER                   |CO |20 
+KTVE        |EL DORADO                |AR |10 
+KTVF        |FAIRBANKS                |AK |11 
+KTVH-DT     |HELENA                   |MT |12 
+KTVI        |ST. LOUIS                |MO |2  
+KTVK        |PHOENIX                  |AZ |3  
+KTVL        |MEDFORD                  |OR |10 
+KTVM-TV     |BUTTE                    |MT |6  
+KTVN        |RENO                     |NV |2  
+KTVO        |KIRKSVILLE               |MO |3  
+KTVQ        |BILLINGS                 |MT |2  
+KTVR        |LA GRANDE                |OR |13 
+KTVT        |FORT WORTH               |TX |11 
+KTVU        |OAKLAND                  |CA |2  
+KTVW-DT     |PHOENIX                  |AZ |33 
+KTVX        |SALT LAKE CITY           |UT |4  
+KTVZ        |BEND                     |OR |21 
+KTWO-TV     |CASPER                   |WY |2  
+KTWU        |TOPEKA                   |KS |11 
+KTXA        |FORT WORTH               |TX |21 
+KTXD-TV     |GREENVILLE               |TX |47 
+KTXH        |HOUSTON                  |TX |20 
+KTXL        |SACRAMENTO               |CA |40 
+KTXS-TV     |SWEETWATER               |TX |12 
+KUAC-TV     |FAIRBANKS                |AK |9  
+KUAM-TV     |HAGATNA                  |GU |8  
+KUAS-TV     |TUCSON                   |AZ |27 
+KUAT-TV     |TUCSON                   |AZ |6  
+KUBD        |KETCHIKAN                |AK |4  
+KUBE-TV     |BAYTOWN                  |TX |57 
+KUCW        |OGDEN                    |UT |30 
+KUED        |SALT LAKE CITY           |UT |7  
+KUEN        |OGDEN                    |UT |9  
+KUES        |RICHFIELD                |UT |19 
+KUEW        |ST. GEORGE               |UT |18 
+KUFM-TV     |MISSOULA                 |MT |11 
+KUGF        |GREAT FALLS              |MT |21 
+KUHM-TV     |HELENA                   |MT |10 
+KUHT        |HOUSTON                  |TX |8  
+KUID-TV     |MOSCOW                   |ID |12 
+KUKL-TV     |KALISPELL                |MT |46 
+KULR-TV     |BILLINGS                 |MT |8  
+KUMV-TV     |WILLISTON                |ND |8  
+KUNP        |LA GRANDE                |OR |16 
+KUNS-TV     |BELLEVUE                 |WA |51 
+KUOK        |WOODWARD                 |OK |35 
+KUON-TV     |LINCOLN                  |NE |12 
+KUPB        |MIDLAND                  |TX |18 
+KUPK        |GARDEN CITY              |KS |13 
+KUPT        |HOBBS                    |NM |29 
+KUPX-TV     |PROVO                    |UT |16 
+KUSA        |DENVER                   |CO |9  
+KUSD-TV     |VERMILLION               |SD |2  
+KUSI-TV     |SAN DIEGO                |CA |51 
+KUTF        |LOGAN                    |UT |12 
+KUTH-DT     |PROVO                    |UT |32 
+KUTP        |PHOENIX                  |AZ |45 
+KUTV        |SALT LAKE CITY           |UT |2  
+KUVE-DT     |GREEN VALLEY             |AZ |46 
+KUVI-DT     |BAKERSFIELD              |CA |45 
+KUVN-DT     |GARLAND                  |TX |23 
+KUVS-DT     |MODESTO                  |CA |19 
+KVAL-TV     |EUGENE                   |OR |13 
+KVAW        |EAGLE PASS               |TX |16 
+KVCR-DT     |SAN BERNARDINO           |CA |24 
+KVCT        |VICTORIA                 |TX |19 
+KVCW        |LAS VEGAS                |NV |33 
+KVDA        |SAN ANTONIO              |TX |60 
+KVEA        |CORONA                   |CA |52 
+KVEO-TV     |BROWNSVILLE              |TX |23 
+KVEW        |KENNEWICK                |WA |42 
+KVHP        |LAKE CHARLES             |LA |29 
+KVIA-TV     |EL PASO                  |TX |7  
+KVIE        |SACRAMENTO               |CA |6  
+KVIH-TV     |CLOVIS                   |NM |12 
+KVII-TV     |AMARILLO                 |TX |7  
+KVLY-TV     |FARGO                    |ND |11 
+KVMD        |TWENTYNINE PALMS         |CA |31 
+KVME-TV     |BISHOP                   |CA |20 
+KVMY        |LAS VEGAS                |NV |21 
+KVOA        |TUCSON                   |AZ |4  
+KVOS-TV     |BELLINGHAM               |WA |12 
+KVPT        |FRESNO                   |CA |18 
+KVRR        |FARGO                    |ND |15 
+KVSN-DT     |PUEBLO                   |CO |48 
+KVTH-DT     |HOT SPRINGS              |AR |26 
+KVTJ-DT     |JONESBORO                |AR |48 
+KVTN-DT     |PINE BLUFF               |AR |25 
+KVUE        |AUSTIN                   |TX |24 
+KVUI        |POCATELLO                |ID |31 
+KVVU-TV     |HENDERSON                |NV |5  
+KVYE        |EL CENTRO                |CA |7  
+KWAB-TV     |BIG SPRING               |TX |4  
+KWBA-TV     |SIERRA VISTA             |AZ |58 
+KWBM        |HARRISON                 |AR |31 
+KWBN        |HONOLULU                 |HI |44 
+KWBQ        |SANTA FE                 |NM |19 
+KWCH-DT     |HUTCHINSON               |KS |12 
+KWCM-TV     |APPLETON                 |MN |10 
+KWDK        |TACOMA                   |WA |56 
+KWES-TV     |ODESSA                   |TX |9  
+KWET        |CHEYENNE                 |OK |12 
+KWEX-DT     |SAN ANTONIO              |TX |41 
+KWGN-TV     |DENVER                   |CO |2  
+KWHB        |TULSA                    |OK |47 
+KWHD        |HILO                     |HI |14 
+KWHE        |HONOLULU                 |HI |14 
+KWHM        |WAILUKU                  |HI |21 
+KWHY-TV     |LOS ANGELES              |CA |22 
+KWKB        |IOWA CITY                |IA |20 
+KWKS        |COLBY                    |KS |19 
+KWKT-TV     |WACO                     |TX |44 
+KWNB-TV     |HAYES CENTER             |NE |6  
+KWOG        |SPRINGDALE               |AR |57 
+KWPX-TV     |BELLEVUE                 |WA |33 
+KWQC-TV     |DAVENPORT                |IA |6  
+KWSD        |SIOUX FALLS              |SD |36 
+KWSE        |WILLISTON                |ND |4  
+KWSU-TV     |PULLMAN                  |WA |10 
+KWTV-DT     |OKLAHOMA CITY            |OK |9  
+KWTX-TV     |WACO                     |TX |10 
+KWWL        |WATERLOO                 |IA |7  
+KWWT        |ODESSA                   |TX |30 
+KWYB        |BUTTE                    |MT |18 
+KWYP-DT     |LARAMIE                  |WY |8  
+KXAN-TV     |AUSTIN                   |TX |36 
+KXAS-TV     |FORT WORTH               |TX |5  
+KXGN-TV     |GLENDIVE                 |MT |5  
+KXII        |SHERMAN                  |TX |12 
+KXLA        |RANCHO PALOS VERDES      |CA |44 
+KXLF-TV     |BUTTE                    |MT |4  
+KXLN-DT     |ROSENBERG                |TX |45 
+KXLT-TV     |ROCHESTER                |MN |47 
+KXLY-TV     |SPOKANE                  |WA |4  
+KXMA-TV     |DICKINSON                |ND |2  
+KXMB-TV     |BISMARCK                 |ND |12 
+KXMC-TV     |MINOT                    |ND |13 
+KXMD-TV     |WILLISTON                |ND |11 
+KXNE-TV     |NORFOLK                  |NE |19 
+KXNW        |EUREKA SPRINGS           |AR |34 
+KXRM-TV     |COLORADO SPRINGS         |CO |21 
+KXTF        |TWIN FALLS               |ID |35 
+KXTV        |SACRAMENTO               |CA |10 
+KXTX-TV     |DALLAS                   |TX |39 
+KXVA        |ABILENE                  |TX |15 
+KXVO        |OMAHA                    |NE |15 
+KXXV        |WACO                     |TX |25 
+KYAZ        |KATY                     |TX |51 
+KYES-TV     |ANCHORAGE                |AK |5  
+KYIN        |MASON CITY               |IA |24 
+KYLE-TV     |BRYAN                    |TX |28 
+KYNE-TV     |OMAHA                    |NE |26 
+KYOU-TV     |OTTUMWA                  |IA |15 
+KYTV        |SPRINGFIELD              |MO |3  
+KYTX        |NACOGDOCHES              |TX |19 
+KYUR        |ANCHORAGE                |AK |13 
+KYUS-TV     |MILES CITY               |MT |3  
+KYVE        |YAKIMA                   |WA |47 
+KYVV-TV     |DEL RIO                  |TX |10 
+KYW-TV      |PHILADELPHIA             |PA |3  
+KZJL        |HOUSTON                  |TX |61 
+KZJO        |SEATTLE                  |WA |22 
+KZSD-TV     |MARTIN                   |SD |8  
+KZTV        |CORPUS CHRISTI           |TX |10 
+WAAY-TV     |HUNTSVILLE               |AL |31 
+WABC-TV     |NEW YORK                 |NY |7  
+WABG-TV     |GREENWOOD                |MS |6  
+WABI-TV     |BANGOR                   |ME |5  
+WABM        |BIRMINGHAM               |AL |68 
+WABW-TV     |PELHAM                   |GA |14 
+WACH        |COLUMBIA                 |SC |57 
+WACP        |ATLANTIC CITY            |NJ |4  
+WACS-TV     |DAWSON                   |GA |25 
+WACX        |LEESBURG                 |FL |55 
+WACY-TV     |APPLETON                 |WI |32 
+WADL        |MOUNT CLEMENS            |MI |38 
+WAFB        |BATON ROUGE              |LA |9  
+WAFF        |HUNTSVILLE               |AL |48 
+WAGA-TV     |ATLANTA                  |GA |5  
+WAGM-TV     |PRESQUE ISLE             |ME |8  
+WAIQ        |MONTGOMERY               |AL |26 
+WAKA        |SELMA                    |AL |8  
+WALA-TV     |MOBILE                   |AL |10 
+WALB        |ALBANY                   |GA |10 
+WAMI-DT     |HOLLYWOOD                |FL |69 
+WAND        |DECATUR                  |IL |17 
+WANE-TV     |FORT WAYNE               |IN |15 
+WAOE        |PEORIA                   |IL |59 
+WAOW        |WAUSAU                   |WI |9  
+WAPA-TV     |SAN JUAN                 |PR |4  
+WAPT        |JACKSON                  |MS |16 
+WAQP        |SAGINAW                  |MI |49 
+WATC-DT     |ATLANTA                  |GA |57 
+WATE-TV     |KNOXVILLE                |TN |6  
+WATL        |ATLANTA                  |GA |36 
+WATM-TV     |ALTOONA                  |PA |23 
+WATN-TV     |MEMPHIS                  |TN |24 
+WAVE        |LOUISVILLE               |KY |3  
+WAVY-TV     |PORTSMOUTH               |VA |10 
+WAWD        |FORT WALTON BEACH        |FL |58 
+WAWV-TV     |TERRE HAUTE              |IN |38 
+WAXN-TV     |KANNAPOLIS               |NC |64 
+WBAL-TV     |BALTIMORE                |MD |11 
+WBAY-TV     |GREEN BAY                |WI |2  
+WBBH-TV     |FORT MYERS               |FL |20 
+WBBJ-TV     |JACKSON                  |TN |7  
+WBBM-TV     |CHICAGO                  |IL |2  
+WBBZ-TV     |SPRINGVILLE              |NY |67 
+WBDT        |SPRINGFIELD              |OH |26 
+WBEC-TV     |BOCA RATON               |FL |63 
+WBFF        |BALTIMORE                |MD |45 
+WBFS-TV     |MIAMI                    |FL |33 
+WBGU-TV     |BOWLING GREEN            |OH |27 
+WBIF        |MARIANNA                 |FL |51 
+WBIH        |SELMA                    |AL |29 
+WBIN-TV     |DERRY                    |NH |50 
+WBIQ        |BIRMINGHAM               |AL |10 
+WBIR-TV     |KNOXVILLE                |TN |10 
+WBKB-TV     |ALPENA                   |MI |11 
+WBKI        |SALEM                    |IN |58 
+WBKO        |BOWLING GREEN            |KY |13 
+WBKP        |CALUMET                  |MI |5  
+WBMM        |TUSKEGEE                 |AL |22 
+WBNA        |LOUISVILLE               |KY |21 
+WBNG-TV     |BINGHAMTON               |NY |12 
+WBNS-TV     |COLUMBUS                 |OH |10 
+WBNX-TV     |AKRON                    |OH |55 
+WBOC-TV     |SALISBURY                |MD |16 
+WBOY-TV     |CLARKSBURG               |WV |12 
+WBPH-TV     |BETHLEHEM                |PA |60 
+WBPX-TV     |BOSTON                   |MA |68 
+WBRA-TV     |ROANOKE                  |VA |15 
+WBRC        |BIRMINGHAM               |AL |6  
+WBRE-TV     |WILKES-BARRE             |PA |28 
+WBRZ-TV     |BATON ROUGE              |LA |2  
+WBSF        |BAY CITY                 |MI |46 
+WBTV        |CHARLOTTE                |NC |3  
+WBTW        |FLORENCE                 |SC |13 
+WBUI        |DECATUR                  |IL |23 
+WBUP        |ISHPEMING                |MI |10 
+WBUY-TV     |HOLLY SPRINGS            |MS |40 
+WBXX-TV     |CROSSVILLE               |TN |20 
+WBZ-TV      |BOSTON                   |MA |4  
+WCAU        |PHILADELPHIA             |PA |10 
+WCAV        |CHARLOTTESVILLE          |VA |19 
+WCAX-TV     |BURLINGTON               |VT |3  
+WCBB        |AUGUSTA                  |ME |10 
+WCBD-TV     |CHARLESTON               |SC |2  
+WCBI-TV     |COLUMBUS                 |MS |4  
+WCBS-TV     |NEW YORK                 |NY |2  
+WCCB        |CHARLOTTE                |NC |18 
+WCCO-TV     |MINNEAPOLIS              |MN |4  
+WCCT-TV     |WATERBURY                |CT |20 
+WCCU        |URBANA                   |IL |27 
+WCCV-TV     |ARECIBO                  |PR |54 
+WCES-TV     |WRENS                    |GA |20 
+WCET        |CINCINNATI               |OH |48 
+WCFE-TV     |PLATTSBURGH              |NY |57 
+WCHS-TV     |CHARLESTON               |WV |8  
+WCIA        |CHAMPAIGN                |IL |3  
+WCIQ        |MOUNT CHEAHA             |AL |7  
+WCIU-TV     |CHICAGO                  |IL |26 
+WCIV        |CHARLESTON               |SC |36 
+WCIX        |SPRINGFIELD              |IL |49 
+WCJB-TV     |GAINESVILLE              |FL |20 
+WCLF        |CLEARWATER               |FL |22 
+WCLJ-TV     |BLOOMINGTON              |IN |42 
+WCMH-TV     |COLUMBUS                 |OH |4  
+WCML        |ALPENA                   |MI |6  
+WCMU-TV     |MOUNT PLEASANT           |MI |14 
+WCMV        |CADILLAC                 |MI |27 
+WCMW        |MANISTEE                 |MI |21 
+WCNC-TV     |CHARLOTTE                |NC |36 
+WCNY-TV     |SYRACUSE                 |NY |24 
+WCOV-TV     |MONTGOMERY               |AL |20 
+WCPB        |SALISBURY                |MD |28 
+WCPO-TV     |CINCINNATI               |OH |9  
+WCPX-TV     |CHICAGO                  |IL |38 
+WCSC-TV     |CHARLESTON               |SC |5  
+WCSH        |PORTLAND                 |ME |6  
+WCTE        |COOKEVILLE               |TN |22 
+WCTI-TV     |NEW BERN                 |NC |12 
+WCTV        |THOMASVILLE              |GA |6  
+WCTX        |NEW HAVEN                |CT |59 
+WCVB-TV     |BOSTON                   |MA |5  
+WCVE-TV     |RICHMOND                 |VA |23 
+WCVI-TV     |CHRISTIANSTED            |VI |39 
+WCVN-TV     |COVINGTON                |KY |54 
+WCVW        |RICHMOND                 |VA |57 
+WCWF        |SURING                   |WI |14 
+WCWG        |LEXINGTON                |NC |20 
+WCWJ        |JACKSONVILLE             |FL |17 
+WCWN        |SCHENECTADY              |NY |45 
+WCYB-TV     |BRISTOL                  |VA |5  
+WDAF-TV     |KANSAS CITY              |MO |4  
+WDAM-TV     |LAUREL                   |MS |7  
+WDAY-TV     |FARGO                    |ND |6  
+WDAZ-TV     |DEVIL'S LAKE             |ND |8  
+WDBB        |BESSEMER                 |AL |17 
+WDBD        |JACKSON                  |MS |40 
+WDBJ        |ROANOKE                  |VA |7  
+WDCA        |WASHINGTON               |DC |20 
+WDCQ-TV     |BAD AXE                  |MI |35 
+WDCW        |WASHINGTON               |DC |50 
+WDEF-TV     |CHATTANOOGA              |TN |12 
+WDFX-TV     |OZARK                    |AL |34 
+WDHN        |DOTHAN                   |AL |18 
+WDIO-DT     |DULUTH                   |MN |10 
+WDIQ        |DOZIER                   |AL |2  
+WDIV-TV     |DETROIT                  |MI |4  
+WDJT-TV     |MILWAUKEE                |WI |58 
+WDKA        |PADUCAH                  |KY |49 
+WDKY-TV     |DANVILLE                 |KY |56 
+WDLI-TV     |CANTON                   |OH |17 
+WDPB        |SEAFORD                  |DE |64 
+WDPM-DT     |MOBILE                   |AL |18 
+WDPN-TV     |WILMINGTON               |DE |2  
+WDPX-TV     |WOBURN                   |MA |58 
+WDRB        |LOUISVILLE               |KY |41 
+WDSC-TV     |NEW SMYRNA BEACH         |FL |15 
+WDSE        |DULUTH                   |MN |8  
+WDSI-TV     |CHATTANOOGA              |TN |61 
+WDSU        |NEW ORLEANS              |LA |6  
+WDTI        |INDIANAPOLIS             |IN |69 
+WDTN        |DAYTON                   |OH |2  
+WDTV        |WESTON                   |WV |5  
+WDVM-TV     |HAGERSTOWN               |MD |25 
+WDWL        |BAYAMON                  |PR |36 
+WEAO        |AKRON                    |OH |49 
+WEAR-TV     |PENSACOLA                |FL |3  
+WEAU        |LA CROSSE                |WI |13 
+WEBA-TV     |ALLENDALE                |SC |14 
+WECN        |NARANJITO                |PR |64 
+WECT        |WILMINGTON               |NC |6  
+WEDH        |HARTFORD                 |CT |24 
+WEDN        |NORWICH                  |CT |53 
+WEDQ        |TAMPA                    |FL |16 
+WEDU        |TAMPA                    |FL |3  
+WEDW        |STAMFORD                 |CT |49 
+WEDY        |NEW HAVEN                |CT |65 
+WEEK-TV     |PEORIA                   |IL |25 
+WEFS        |COCOA                    |FL |68 
+WEHT        |EVANSVILLE               |IN |25 
+WEIQ        |MOBILE                   |AL |42 
+WEIU-TV     |CHARLESTON               |IL |51 
+WEKW-TV     |KEENE                    |NH |52 
+WELF-TV     |DALTON                   |GA |23 
+WELU        |TOA BAJA                 |PR |32 
+WEMT        |GREENEVILLE              |TN |39 
+WENH-TV     |DURHAM                   |NH |11 
+WENY-TV     |ELMIRA                   |NY |36 
+WEPH        |TUPELO                   |MS |-  
+WEPX-TV     |GREENVILLE               |NC |38 
+WESH        |DAYTONA BEACH            |FL |2  
+WETA-TV     |WASHINGTON               |DC |26 
+WETK        |BURLINGTON               |VT |33 
+WETM-TV     |ELMIRA                   |NY |18 
+WETP-TV     |SNEEDVILLE               |TN |2  
+WEUX        |CHIPPEWA FALLS           |WI |48 
+WEVV-TV     |EVANSVILLE               |IN |44 
+WEWS-TV     |CLEVELAND                |OH |5  
+WEYI-TV     |SAGINAW                  |MI |25 
+WFAA        |DALLAS                   |TX |8  
+WFBD        |DESTIN                   |FL |48 
+WFDC-DT     |ARLINGTON                |VA |14 
+WFFF-TV     |BURLINGTON               |VT |44 
+WFFP-TV     |DANVILLE                 |VA |24 
+WFFT-TV     |FORT WAYNE               |IN |55 
+WFGC        |PALM BEACH               |FL |61 
+WFGX        |FORT WALTON BEACH        |FL |35 
+WFIE        |EVANSVILLE               |IN |14 
+WFIQ        |FLORENCE                 |AL |36 
+WFLA-TV     |TAMPA                    |FL |8  
+WFLD        |CHICAGO                  |IL |32 
+WFLI-TV     |CLEVELAND                |TN |53 
+WFLX        |WEST PALM BEACH          |FL |29 
+WFMJ-TV     |YOUNGSTOWN               |OH |21 
+WFMY-TV     |GREENSBORO               |NC |2  
+WFMZ-TV     |ALLENTOWN                |PA |69 
+WFNA        |GULF SHORES              |AL |55 
+WFOR-TV     |MIAMI                    |FL |4  
+WFOX-TV     |JACKSONVILLE             |FL |30 
+WFPT        |FREDERICK                |MD |62 
+WFPX-TV     |ARCHER LODGE             |NC |62 
+WFQX-TV     |CADILLAC                 |MI |33 
+WFRV-TV     |GREEN BAY                |WI |5  
+WFSB        |HARTFORD                 |CT |3  
+WFSG        |PANAMA CITY              |FL |56 
+WFSU-TV     |TALLAHASSEE              |FL |11 
+WFTC        |MINNEAPOLIS              |MN |29 
+WFTS-TV     |TAMPA                    |FL |28 
+WFTV        |ORLANDO                  |FL |9  
+WFTX-TV     |CAPE CORAL               |FL |36 
+WFTY-DT     |SMITHTOWN                |NY |67 
+WFUP        |VANDERBILT               |MI |45 
+WFUT-DT     |NEWARK                   |NJ |68 
+WFWA        |FORT WAYNE               |IN |39 
+WFXB        |MYRTLE BEACH             |SC |43 
+WFXG        |AUGUSTA                  |GA |54 
+WFXL        |ALBANY                   |GA |31 
+WFXP        |ERIE                     |PA |66 
+WFXR        |ROANOKE                  |VA |27 
+WFXT        |BOSTON                   |MA |25 
+WFXU        |LIVE OAK                 |FL |57 
+WFXV        |UTICA                    |NY |33 
+WFYI        |INDIANAPOLIS             |IN |20 
+WGAL        |LANCASTER                |PA |8  
+WGBA-TV     |GREEN BAY                |WI |26 
+WGBC        |MERIDIAN                 |MS |30 
+WGBH-TV     |BOSTON                   |MA |2  
+WGBO-DT     |JOLIET                   |IL |66 
+WGBX-TV     |BOSTON                   |MA |44 
+WGBY-TV     |SPRINGFIELD              |MA |57 
+WGCB-TV     |RED LION                 |PA |49 
+WGCL-TV     |ATLANTA                  |GA |46 
+WGCU        |FORT MYERS               |FL |30 
+WGEM-TV     |QUINCY                   |IL |10 
+WGEN-TV     |KEY WEST                 |FL |8  
+WGFL        |HIGH SPRINGS             |FL |53 
+WGGB-TV     |SPRINGFIELD              |MA |40 
+WGGN-TV     |SANDUSKY                 |OH |52 
+WGGS-TV     |GREENVILLE               |SC |16 
+WGHP        |HIGH POINT               |NC |8  
+WGIQ        |LOUISVILLE               |AL |43 
+WGMB-TV     |BATON ROUGE              |LA |44 
+WGME-TV     |PORTLAND                 |ME |13 
+WGNM        |MACON                    |GA |64 
+WGNO        |NEW ORLEANS              |LA |26 
+WGNT        |PORTSMOUTH               |VA |27 
+WGN-TV      |CHICAGO                  |IL |9  
+WGPT        |OAKLAND                  |MD |36 
+WGPX-TV     |BURLINGTON               |NC |16 
+WGRZ        |BUFFALO                  |NY |2  
+WGSA        |BAXLEY                   |GA |34 
+WGTA        |TOCCOA                   |GA |32 
+WGTE-TV     |TOLEDO                   |OH |30 
+WGTQ        |SAULT STE. MARIE         |MI |8  
+WGTU        |TRAVERSE CITY            |MI |29 
+WGTV        |ATHENS                   |GA |8  
+WGTW-TV     |MILLVILLE                |NJ |48 
+WGVK        |KALAMAZOO                |MI |52 
+WGVU-TV     |GRAND RAPIDS             |MI |35 
+WGWG        |CHARLESTON               |SC |4  
+WGWW        |ANNISTON                 |AL |40 
+WGXA        |MACON                    |GA |24 
+WHAM-TV     |ROCHESTER                |NY |13 
+WHAS-TV     |LOUISVILLE               |KY |11 
+WHA-TV      |MADISON                  |WI |21 
+WHBF-TV     |ROCK ISLAND              |IL |4  
+WHBQ-TV     |MEMPHIS                  |TN |13 
+WHBR        |PENSACOLA                |FL |33 
+WHDF        |FLORENCE                 |AL |15 
+WHDH        |BOSTON                   |MA |7  
+WHDT        |STUART                   |FL |59 
+WHEC-TV     |ROCHESTER                |NY |10 
+WHFT-TV     |MIAMI                    |FL |45 
+WHIO-TV     |DAYTON                   |OH |7  
+WHIQ        |HUNTSVILLE               |AL |25 
+WHIZ-TV     |ZANESVILLE               |OH |18 
+WHKY-TV     |HICKORY                  |NC |14 
+WHLA-TV     |LA CROSSE                |WI |31 
+WHLT        |HATTIESBURG              |MS |22 
+WHLV-TV     |COCOA                    |FL |52 
+WHMB-TV     |INDIANAPOLIS             |IN |40 
+WHMC        |CONWAY                   |SC |23 
+WHME-TV     |SOUTH BEND               |IN |46 
+WHNO        |NEW ORLEANS              |LA |20 
+WHNS        |GREENVILLE               |SC |21 
+WHNT-TV     |HUNTSVILLE               |AL |19 
+WHO-DT      |DES MOINES               |IA |13 
+WHOI        |PEORIA                   |IL |19 
+WHP-TV      |HARRISBURG               |PA |21 
+WHPX-TV     |NEW LONDON               |CT |26 
+WHRM-TV     |WAUSAU                   |WI |20 
+WHRO-TV     |HAMPTON-NORFOLK          |VA |15 
+WHSG-TV     |MONROE                   |GA |63 
+WHSV-TV     |MASSANUTTEN              |VA |3  
+WHTJ        |CHARLOTTESVILLE          |VA |41 
+WHTM-TV     |HARRISBURG               |PA |27 
+WHTN        |MURFREESBORO             |TN |39 
+WHUT-TV     |WASHINGTON               |DC |32 
+WHWC-TV     |MENOMONIE                |WI |28 
+WHYY-TV     |WILMINGTON               |DE |12 
+WIAT        |BIRMINGHAM               |AL |42 
+WIBW-TV     |TOPEKA                   |KS |13 
+WICD        |CHAMPAIGN                |IL |15 
+WICS        |SPRINGFIELD              |IL |20 
+WICU-TV     |ERIE                     |PA |12 
+WICZ-TV     |BINGHAMTON               |NY |40 
+WIDP        |GUAYAMA                  |PR |46 
+WIFS        |JANESVILLE               |WI |57 
+WIIQ        |DEMOPOLIS                |AL |41 
+WILL-TV     |URBANA                   |IL |12 
+WILX-TV     |ONONDAGA                 |MI |10 
+WINK-TV     |FORT MYERS               |FL |11 
+WINM        |ANGOLA                   |IN |63 
+WINP-TV     |PITTSBURGH               |PA |16 
+WIPB        |MUNCIE                   |IN |49 
+WIPL        |LEWISTON                 |ME |35 
+WIPM-TV     |MAYAGUEZ                 |PR |3  
+WIPR-TV     |SAN JUAN                 |PR |6  
+WIPX-TV     |BLOOMINGTON              |IN |63 
+WIRS        |YAUCO                    |PR |42 
+WIRT-DT     |HIBBING                  |MN |13 
+WIS         |COLUMBIA                 |SC |10 
+WISC-TV     |MADISON                  |WI |3  
+WISE-TV     |FORT WAYNE               |IN |33 
+WISH-TV     |INDIANAPOLIS             |IN |8  
+WISN-TV     |MILWAUKEE                |WI |12 
+WITF-TV     |HARRISBURG               |PA |33 
+WITI        |MILWAUKEE                |WI |6  
+WITN-TV     |WASHINGTON               |NC |7  
+WITV        |CHARLESTON               |SC |7  
+WIVB-TV     |BUFFALO                  |NY |4  
+WIVT        |BINGHAMTON               |NY |34 
+WIWN        |FOND DU LAC              |WI |68 
+WIYC        |TROY                     |AL |67 
+WJAC-TV     |JOHNSTOWN                |PA |6  
+WJAL        |HAGERSTOWN               |MD |68 
+WJAR        |PROVIDENCE               |RI |10 
+WJAX-TV     |JACKSONVILLE             |FL |47 
+WJBF        |AUGUSTA                  |GA |6  
+WJBK        |DETROIT                  |MI |2  
+WJCL        |SAVANNAH                 |GA |22 
+WJCT        |JACKSONVILLE             |FL |7  
+WJEB-TV     |JACKSONVILLE             |FL |59 
+WJET-TV     |ERIE                     |PA |24 
+WJFB        |LEBANON                  |TN |66 
+WJFW-TV     |RHINELANDER              |WI |12 
+WJHG-TV     |PANAMA CITY              |FL |7  
+WJHL-TV     |JOHNSON CITY             |TN |11 
+WJKT        |JACKSON                  |TN |16 
+WJLA-TV     |WASHINGTON               |DC |7  
+WJLP        |MIDDLETOWN TOWNSHIP      |NJ |33 
+WJMN-TV     |ESCANABA                 |MI |3  
+WJPM-TV     |FLORENCE                 |SC |33 
+WJPX        |SAN JUAN                 |PR |24 
+WJRT-TV     |FLINT                    |MI |12 
+WJSP-TV     |COLUMBUS                 |GA |28 
+WJTC        |PENSACOLA                |FL |44 
+WJTV        |JACKSON                  |MS |12 
+WJW         |CLEVELAND                |OH |8  
+WJWJ-TV     |BEAUFORT                 |SC |16 
+WJWN-TV     |SAN SEBASTIAN            |PR |38 
+WJXT        |JACKSONVILLE             |FL |4  
+WJXX        |ORANGE PARK              |FL |25 
+WJYS        |HAMMOND                  |IN |62 
+WJZ-TV      |BALTIMORE                |MD |13 
+WJZY        |BELMONT                  |NC |46 
+WKAQ-TV     |SAN JUAN                 |PR |2  
+WKAR-TV     |EAST LANSING             |MI |23 
+WKAS        |ASHLAND                  |KY |25 
+WKBD-TV     |DETROIT                  |MI |50 
+WKBN-TV     |YOUNGSTOWN               |OH |27 
+WKBS-TV     |ALTOONA                  |PA |47 
+WKBT-DT     |LA CROSSE                |WI |8  
+WKBW-TV     |BUFFALO                  |NY |7  
+WKCF        |CLERMONT                 |FL |18 
+WKEF        |DAYTON                   |OH |22 
+WKGB-TV     |BOWLING GREEN            |KY |53 
+WKHA        |HAZARD                   |KY |35 
+WKLE        |LEXINGTON                |KY |46 
+WKMA-TV     |MADISONVILLE             |KY |35 
+WKMG-TV     |ORLANDO                  |FL |6  
+WKMJ-TV     |LOUISVILLE               |KY |68 
+WKMR        |MOREHEAD                 |KY |38 
+WKMU        |MURRAY                   |KY |21 
+WKNO        |MEMPHIS                  |TN |10 
+WKNX-TV     |KNOXVILLE                |TN |7  
+WKOH        |OWENSBORO                |KY |31 
+WKOI-TV     |RICHMOND                 |IN |43 
+WKON        |OWENTON                  |KY |52 
+WKOP-TV     |KNOXVILLE                |TN |15 
+WKOW        |MADISON                  |WI |27 
+WKPC-TV     |LOUISVILLE               |KY |15 
+WKPD        |PADUCAH                  |KY |29 
+WKPI-TV     |PIKEVILLE                |KY |22 
+WKPT-TV     |KINGSPORT                |TN |19 
+WKPV        |PONCE                    |PR |20 
+WKRC-TV     |CINCINNATI               |OH |12 
+WKRG-TV     |MOBILE                   |AL |5  
+WKRN-TV     |NASHVILLE                |TN |2  
+WKSO-TV     |SOMERSET                 |KY |29 
+WKTC        |SUMTER                   |SC |63 
+WKTV        |UTICA                    |NY |2  
+WKYC        |CLEVELAND                |OH |3  
+WKYT-TV     |LEXINGTON                |KY |27 
+WKYU-TV     |BOWLING GREEN            |KY |24 
+WKZT-TV     |ELIZABETHTOWN            |KY |23 
+WLAE-TV     |NEW ORLEANS              |LA |32 
+WLAJ        |LANSING                  |MI |53 
+WLAX        |LA CROSSE                |WI |25 
+WLBT        |JACKSON                  |MS |3  
+WLBZ        |BANGOR                   |ME |2  
+WLED-TV     |LITTLETON                |NH |49 
+WLEF-TV     |PARK FALLS               |WI |36 
+WLEX-TV     |LEXINGTON                |KY |18 
+WLFB        |BLUEFIELD                |WV |40 
+WLFG        |GRUNDY                   |VA |68 
+WLFI-TV     |LAFAYETTE                |IN |18 
+WLFL        |RALEIGH                  |NC |22 
+WLGA        |OPELIKA                  |AL |66 
+WLII-DT     |CAGUAS                   |PR |11 
+WLIO        |LIMA                     |OH |35 
+WLIW        |GARDEN CITY              |NY |21 
+WLJC-TV     |BEATTYVILLE              |KY |65 
+WLJT-DT     |LEXINGTON                |TN |11 
+WLKY        |LOUISVILLE               |KY |32 
+WLLA        |KALAMAZOO                |MI |64 
+WLMB        |TOLEDO                   |OH |40 
+WLMT        |MEMPHIS                  |TN |30 
+WLNE-TV     |NEW BEDFORD              |MA |6  
+WLNS-TV     |LANSING                  |MI |6  
+WLNY-TV     |RIVERHEAD                |NY |55 
+WLOO        |VICKSBURG                |MS |35 
+WLOS        |ASHEVILLE                |NC |13 
+WLOV-TV     |WEST POINT               |MS |27 
+WLOX        |BILOXI                   |MS |13 
+WLPB-TV     |BATON ROUGE              |LA |27 
+WLPX-TV     |CHARLESTON               |WV |29 
+WLRN-TV     |MIAMI                    |FL |17 
+WLS-TV      |CHICAGO                  |IL |7  
+WLTV-DT     |MIAMI                    |FL |23 
+WLTX        |COLUMBIA                 |SC |19 
+WLTZ        |COLUMBUS                 |GA |38 
+WLUC-TV     |MARQUETTE                |MI |6  
+WLUK-TV     |GREEN BAY                |WI |11 
+WLVI        |CAMBRIDGE                |MA |56 
+WLVT-TV     |ALLENTOWN                |PA |39 
+WLWC        |NEW BEDFORD              |MA |28 
+WLWT        |CINCINNATI               |OH |5  
+WLXI        |GREENSBORO               |NC |61 
+WMAB-TV     |MISSISSIPPI STATE        |MS |2  
+WMAE-TV     |BOONEVILLE               |MS |12 
+WMAH-TV     |BILOXI                   |MS |19 
+WMAO-TV     |GREENWOOD                |MS |23 
+WMAQ-TV     |CHICAGO                  |IL |5  
+WMAR-TV     |BALTIMORE                |MD |2  
+WMAU-TV     |BUDE                     |MS |17 
+WMAV-TV     |OXFORD                   |MS |18 
+WMAW-TV     |MERIDIAN                 |MS |14 
+WMAZ-TV     |MACON                    |GA |13 
+WMBB        |PANAMA CITY              |FL |13 
+WMBC-TV     |NEWTON                   |NJ |63 
+WMBD-TV     |PEORIA                   |IL |31 
+WMBF-TV     |MYRTLE BEACH             |SC |32 
+WMCF-TV     |MONTGOMERY               |AL |45 
+WMCN-TV     |PRINCETON                |NJ |44 
+WMC-TV      |MEMPHIS                  |TN |5  
+WMDE        |DOVER                    |DE |36 
+WMDN        |MERIDIAN                 |MS |24 
+WMDT        |SALISBURY                |MD |47 
+WMEA-TV     |BIDDEFORD                |ME |26 
+WMEB-TV     |ORONO                    |ME |12 
+WMEC        |MACOMB                   |IL |22 
+WMED-TV     |CALAIS                   |ME |13 
+WMEM-TV     |PRESQUE ISLE             |ME |10 
+WMFD-TV     |MANSFIELD                |OH |68 
+WMFP        |FOXBOROUGH               |MA |62 
+WMGM-TV     |WILDWOOD                 |NJ |40 
+WMGT-TV     |MACON                    |GA |41 
+WMHT        |SCHENECTADY              |NY |17 
+WMLW-TV     |RACINE                   |WI |49 
+WMOR-TV     |LAKELAND                 |FL |32 
+WMOW        |CRANDON                  |WI |4  
+WMPB        |BALTIMORE                |MD |67 
+WMPN-TV     |JACKSON                  |MS |29 
+WMPT        |ANNAPOLIS                |MD |22 
+WMPV-TV     |MOBILE                   |AL |21 
+WMSN-TV     |MADISON                  |WI |47 
+WMTJ        |FAJARDO                  |PR |40 
+WMTV        |MADISON                  |WI |15 
+WMTW        |POLAND SPRING            |ME |8  
+WMUM-TV     |COCHRAN                  |GA |29 
+WMUR-TV     |MANCHESTER               |NH |9  
+WMVS        |MILWAUKEE                |WI |10 
+WMVT        |MILWAUKEE                |WI |36 
+WMWC-TV     |GALESBURG                |IL |53 
+WMYA-TV     |ANDERSON                 |SC |40 
+WMYD        |DETROIT                  |MI |20 
+WMYT-TV     |ROCK HILL                |SC |55 
+WMYV        |GREENSBORO               |NC |48 
+WNAB        |NASHVILLE                |TN |58 
+WNAC-TV     |PROVIDENCE               |RI |64 
+WNBC        |NEW YORK                 |NY |4  
+WNBW-DT     |GAINESVILLE              |FL |9  
+WNCF        |MONTGOMERY               |AL |32 
+WNCN        |GOLDSBORO                |NC |17 
+WNCT-TV     |GREENVILLE               |NC |9  
+WNDU-TV     |SOUTH BEND               |IN |16 
+WNDY-TV     |MARION                   |IN |23 
+WNED-TV     |BUFFALO                  |NY |17 
+WNEH        |GREENWOOD                |SC |38 
+WNEM-TV     |BAY CITY                 |MI |5  
+WNEO        |ALLIANCE                 |OH |45 
+WNEP-TV     |SCRANTON                 |PA |16 
+WNET        |NEWARK                   |NJ |13 
+WNEU        |MERRIMACK                |NH |60 
+WNGH-TV     |CHATSWORTH               |GA |18 
+WNIN        |EVANSVILLE               |IN |9  
+WNIT        |SOUTH BEND               |IN |34 
+WNJB        |NEW BRUNSWICK            |NJ |58 
+WNJN        |MONTCLAIR                |NJ |50 
+WNJS        |CAMDEN                   |NJ |23 
+WNJT        |TRENTON                  |NJ |52 
+WNJU        |LINDEN                   |NJ |47 
+WNJX-TV     |MAYAGUEZ                 |PR |4  
+WNKY        |BOWLING GREEN            |KY |40 
+WNLO        |BUFFALO                  |NY |23 
+WNMU        |MARQUETTE                |MI |13 
+WNNE        |MONTPELIER               |VT |31 
+WNOL-TV     |NEW ORLEANS              |LA |38 
+WNPB-TV     |MORGANTOWN               |WV |24 
+WNPI-DT     |NORWOOD                  |NY |18 
+WNPT        |NASHVILLE                |TN |8  
+WNPX-TV     |FRANKLIN                 |TN |28 
+WNSC-TV     |ROCK HILL                |SC |30 
+WNTV        |GREENVILLE               |SC |29 
+WNTZ-TV     |NATCHEZ                  |MS |48 
+WNUV        |BALTIMORE                |MD |54 
+WNVC        |CULPEPER                 |VA |30 
+WNVT        |SPOTSYLVANIA             |VA |30 
+WNWO-TV     |TOLEDO                   |OH |24 
+WNYA        |PITTSFIELD               |MA |51 
+WNYB        |BUFFALO                  |NY |26 
+WNYE-TV     |NEW YORK                 |NY |25 
+WNYI        |ITHACA                   |NY |52 
+WNYO-TV     |BUFFALO                  |NY |49 
+WNYT        |ALBANY                   |NY |13 
+WNYW        |NEW YORK                 |NY |5  
+WOAI-TV     |SAN ANTONIO              |TX |4  
+WOAY-TV     |OAK HILL                 |WV |4  
+WOFL        |ORLANDO                  |FL |35 
+WOGX        |OCALA                    |FL |51 
+WOI-DT      |AMES                     |IA |5  
+WOIO        |SHAKER HEIGHTS           |OH |19 
+WOLE-DT     |AGUADILLA                |PR |12 
+WOLF-TV     |HAZLETON                 |PA |56 
+WOLO-TV     |COLUMBIA                 |SC |25 
+WOOD-TV     |GRAND RAPIDS             |MI |8  
+WOPX-TV     |MELBOURNE                |FL |56 
+WORA-TV     |MAYAGUEZ                 |PR |5  
+WORO-DT     |FAJARDO                  |PR |13 
+WOST        |MAYAGUEZ                 |PR |14 
+WOSU-TV     |COLUMBUS                 |OH |34 
+WOTF-TV     |DAYTONA BEACH            |FL |26 
+WOTV        |BATTLE CREEK             |MI |41 
+WOUB-TV     |ATHENS                   |OH |20 
+WOUC-TV     |CAMBRIDGE                |OH |44 
+WOWK-TV     |HUNTINGTON               |WV |13 
+WOWT        |OMAHA                    |NE |6  
+WPAN        |FORT WALTON BEACH        |FL |53 
+WPBA        |ATLANTA                  |GA |30 
+WPBF        |TEQUESTA                 |FL |25 
+WPBN-TV     |TRAVERSE CITY            |MI |7  
+WPBS-DT     |WATERTOWN                |NY |16 
+WPBT        |MIAMI                    |FL |2  
+WPCB-TV     |GREENSBURG               |PA |40 
+WPCH-TV     |ATLANTA                  |GA |17 
+WPCT        |PANAMA CITY BEACH        |FL |46 
+WPCW        |JEANNETTE                |PA |19 
+WPDE-TV     |FLORENCE                 |SC |15 
+WPEC        |WEST PALM BEACH          |FL |12 
+WPFO        |WATERVILLE               |ME |23 
+WPGA-TV     |PERRY                    |GA |58 
+WPGD-TV     |HENDERSONVILLE           |TN |50 
+WPGH-TV     |PITTSBURGH               |PA |53 
+WPGX        |PANAMA CITY              |FL |28 
+WPHL-TV     |PHILADELPHIA             |PA |17 
+WPIX        |NEW YORK                 |NY |11 
+WPLG        |MIAMI                    |FL |10 
+WPMI-TV     |MOBILE                   |AL |15 
+WPMT        |YORK                     |PA |43 
+WPNE-TV     |GREEN BAY                |WI |38 
+WPNT        |PITTSBURGH               |PA |22 
+WPPT        |PHILADELPHIA             |PA |35 
+WPPX-TV     |WILMINGTON               |DE |61 
+WPRI-TV     |PROVIDENCE               |RI |12 
+WPSD-TV     |PADUCAH                  |KY |6  
+WPSG        |PHILADELPHIA             |PA |57 
+WPSU-TV     |CLEARFIELD               |PA |3  
+WPTA        |FORT WAYNE               |IN |21 
+WPTD        |DAYTON                   |OH |16 
+WPTO        |OXFORD                   |OH |14 
+WPTV-TV     |WEST PALM BEACH          |FL |5  
+WPTZ        |PLATTSBURGH              |NY |5  
+WPVI-TV     |PHILADELPHIA             |PA |6  
+WPWR-TV     |GARY                     |IN |50 
+WPXA-TV     |ROME                     |GA |14 
+WPXC-TV     |BRUNSWICK                |GA |21 
+WPXD-TV     |ANN ARBOR                |MI |31 
+WPXE-TV     |KENOSHA                  |WI |55 
+WPXG-TV     |CONCORD                  |NH |21 
+WPXH-TV     |HOOVER                   |AL |44 
+WPXI        |PITTSBURGH               |PA |11 
+WPXJ-TV     |BATAVIA                  |NY |51 
+WPXK-TV     |JELLICO                  |TN |54 
+WPXL-TV     |NEW ORLEANS              |LA |49 
+WPXM-TV     |MIAMI                    |FL |35 
+WPXN-TV     |NEW YORK                 |NY |31 
+WPXP-TV     |LAKE WORTH               |FL |67 
+WPXQ-TV     |NEWPORT                  |RI |69 
+WPXR-TV     |ROANOKE                  |VA |38 
+WPXS        |MOUNT VERNON             |IL |13 
+WPXT        |PORTLAND                 |ME |51 
+WPXU-TV     |JACKSONVILLE             |NC |35 
+WPXV-TV     |NORFOLK                  |VA |49 
+WPXW-TV     |MANASSAS                 |VA |66 
+WPXX-TV     |MEMPHIS                  |TN |50 
+WQAD-TV     |MOLINE                   |IL |8  
+WQCW        |PORTSMOUTH               |OH |30 
+WQEC        |QUINCY                   |IL |27 
+WQED        |PITTSBURGH               |PA |13 
+WQHA        |AGUADA                   |PR |50 
+WQHS-DT     |CLEVELAND                |OH |61 
+WQLN        |ERIE                     |PA |54 
+WQMY        |WILLIAMSPORT             |PA |53 
+WQOW        |EAU CLAIRE               |WI |18 
+WQPT-TV     |MOLINE                   |IL |24 
+WQPX-TV     |SCRANTON                 |PA |64 
+WQRF-TV     |ROCKFORD                 |IL |39 
+WQTO        |PONCE                    |PR |26 
+WRAL-TV     |RALEIGH                  |NC |5  
+WRAY-TV     |WAKE FOREST              |NC |30 
+WRAZ        |RALEIGH                  |NC |50 
+WRBJ-TV     |MAGEE                    |MS |34 
+WRBL        |COLUMBUS                 |GA |3  
+WRBU        |EAST ST. LOUIS           |IL |46 
+WRBW        |ORLANDO                  |FL |65 
+WRCB        |CHATTANOOGA              |TN |3  
+WRC-TV      |WASHINGTON               |DC |4  
+WRDC        |DURHAM                   |NC |28 
+WRDQ        |ORLANDO                  |FL |27 
+WRDW-TV     |AUGUSTA                  |GA |12 
+WREG-TV     |MEMPHIS                  |TN |3  
+WRET-TV     |SPARTANBURG              |SC |49 
+WREX        |ROCKFORD                 |IL |13 
+WRFB        |CAROLINA                 |PR |52 
+WRGB        |SCHENECTADY              |NY |6  
+WRGT-TV     |DAYTON                   |OH |45 
+WRIC-TV     |PETERSBURG               |VA |8  
+WRJA-TV     |SUMTER                   |SC |27 
+WRLH-TV     |RICHMOND                 |VA |35 
+WRLK-TV     |COLUMBIA                 |SC |35 
+WRLM        |CANTON                   |OH |67 
+WRNN-TV     |NEW ROCHELLE             |NY |48 
+WROC-TV     |ROCHESTER                |NY |8  
+WRPT        |HIBBING                  |MN |31 
+WRPX-TV     |ROCKY MOUNT              |NC |47 
+WRSP-TV     |SPRINGFIELD              |IL |55 
+WRTV        |INDIANAPOLIS             |IN |6  
+WRUA        |FAJARDO                  |PR |34 
+WRXY-TV     |TICE                     |FL |49 
+WSAV-TV     |SAVANNAH                 |GA |3  
+WSAW-TV     |WAUSAU                   |WI |7  
+WSAZ-TV     |HUNTINGTON               |WV |3  
+WSBE-TV     |PROVIDENCE               |RI |36 
+WSBK-TV     |BOSTON                   |MA |38 
+WSBS-TV     |KEY WEST                 |FL |22 
+WSBT-TV     |SOUTH BEND               |IN |22 
+WSB-TV      |ATLANTA                  |GA |2  
+WSCV        |FORT LAUDERDALE          |FL |51 
+WSEC        |JACKSONVILLE             |IL |14 
+WSEE-TV     |ERIE                     |PA |35 
+WSES        |TUSCALOOSA               |AL |33 
+WSET-TV     |LYNCHBURG                |VA |13 
+WSFA        |MONTGOMERY               |AL |12 
+WSFJ-TV     |LONDON                   |OH |51 
+WSFL-TV     |MIAMI                    |FL |39 
+WSFX-TV     |WILMINGTON               |NC |26 
+WSIL-TV     |HARRISBURG               |IL |3  
+WSIU-TV     |CARBONDALE               |IL |8  
+WSJV        |ELKHART                  |IN |28 
+WSKA        |CORNING                  |NY |30 
+WSKG-TV     |BINGHAMTON               |NY |46 
+WSKY-TV     |MANTEO                   |NC |4  
+WSLS-TV     |ROANOKE                  |VA |10 
+WSMH        |FLINT                    |MI |66 
+WSMV-TV     |NASHVILLE                |TN |4  
+WSNS-TV     |CHICAGO                  |IL |44 
+WSOC-TV     |CHARLOTTE                |NC |9  
+WSPA-TV     |SPARTANBURG              |SC |7  
+WSPX-TV     |SYRACUSE                 |NY |56 
+WSRE        |PENSACOLA                |FL |23 
+WSST-TV     |CORDELE                  |GA |55 
+WSTM-TV     |SYRACUSE                 |NY |3  
+WSTR-TV     |CINCINNATI               |OH |64 
+WSUR-DT     |PONCE                    |PR |9  
+WSVI        |CHRISTIANSTED            |VI |8  
+WSVN        |MIAMI                    |FL |7  
+WSWB        |SCRANTON                 |PA |38 
+WSWG        |VALDOSTA                 |GA |44 
+WSWP-TV     |GRANDVIEW                |WV |9  
+WSYM-TV     |LANSING                  |MI |47 
+WSYR-TV     |SYRACUSE                 |NY |9  
+WSYT        |SYRACUSE                 |NY |68 
+WSYX        |COLUMBUS                 |OH |6  
+WTAE-TV     |PITTSBURGH               |PA |4  
+WTAJ-TV     |ALTOONA                  |PA |10 
+WTAP-TV     |PARKERSBURG              |WV |15 
+WTAT-TV     |CHARLESTON               |SC |24 
+WTBY-TV     |JERSEY CITY              |NJ |54 
+WTCE-TV     |FORT PIERCE              |FL |21 
+WTCI        |CHATTANOOGA              |TN |45 
+WTCT        |MARION                   |IL |27 
+WTCV        |SAN JUAN                 |PR |18 
+WTEN        |ALBANY                   |NY |10 
+WTGL        |LEESBURG                 |FL |45 
+WTGS        |HARDEEVILLE              |SC |28 
+WTHI-TV     |TERRE HAUTE              |IN |10 
+WTHR        |INDIANAPOLIS             |IN |13 
+WTIC-TV     |HARTFORD                 |CT |61 
+WTIN-TV     |PONCE                    |PR |4  
+WTIU        |BLOOMINGTON              |IN |30 
+WTJP-TV     |GADSDEN                  |AL |60 
+WTJR        |QUINCY                   |IL |16 
+WTJX-TV     |CHARLOTTE AMALIE         |VI |12 
+WTKR        |NORFOLK                  |VA |3  
+WTLF        |TALLAHASSEE              |FL |24 
+WTLH        |BAINBRIDGE               |GA |49 
+WTLJ        |MUSKEGON                 |MI |54 
+WTLV        |JACKSONVILLE             |FL |12 
+WTLW        |LIMA                     |OH |44 
+WTMJ-TV     |MILWAUKEE                |WI |4  
+WTNH        |NEW HAVEN                |CT |8  
+WTNZ        |KNOXVILLE                |TN |43 
+WTOC-TV     |SAVANNAH                 |GA |11 
+WTOG        |ST. PETERSBURG           |FL |44 
+WTOK-TV     |MERIDIAN                 |MS |11 
+WTOL        |TOLEDO                   |OH |11 
+WTOM-TV     |CHEBOYGAN                |MI |4  
+WTOV-TV     |STEUBENVILLE             |OH |9  
+WTPC-TV     |VIRGINIA BEACH           |VA |21 
+WTPX-TV     |ANTIGO                   |WI |46 
+WTRF-TV     |WHEELING                 |WV |7  
+WTSF        |ASHLAND                  |KY |61 
+WTSP        |ST. PETERSBURG           |FL |10 
+WTTA        |ST. PETERSBURG           |FL |38 
+WTTE        |COLUMBUS                 |OH |28 
+WTTG        |WASHINGTON               |DC |5  
+WTTK        |KOKOMO                   |IN |29 
+WTTO        |HOMEWOOD                 |AL |21 
+WTTV        |BLOOMINGTON              |IN |4  
+WTTW        |CHICAGO                  |IL |11 
+WTVA        |TUPELO                   |MS |9  
+WTVC        |CHATTANOOGA              |TN |9  
+WTVD        |DURHAM                   |NC |11 
+WTVE        |WILLOW GROVE             |PA |51 
+WTVF        |NASHVILLE                |TN |5  
+WTVG        |TOLEDO                   |OH |13 
+WTVH        |SYRACUSE                 |NY |5  
+WTVI        |CHARLOTTE                |NC |42 
+WTVJ        |MIAMI                    |FL |6  
+WTVM        |COLUMBUS                 |GA |9  
+WTVO        |ROCKFORD                 |IL |17 
+WTVP        |PEORIA                   |IL |47 
+WTVQ-DT     |LEXINGTON                |KY |36 
+WTVR-TV     |RICHMOND                 |VA |6  
+WTVS        |DETROIT                  |MI |56 
+WTVT        |TAMPA                    |FL |13 
+WTVW        |EVANSVILLE               |IN |7  
+WTVX        |FORT PIERCE              |FL |34 
+WTVY        |DOTHAN                   |AL |4  
+WTVZ-TV     |NORFOLK                  |VA |33 
+WTWC-TV     |TALLAHASSEE              |FL |40 
+WTWO        |TERRE HAUTE              |IN |2  
+WTWV        |MEMPHIS                  |TN |14 
+WTXF-TV     |PHILADELPHIA             |PA |29 
+WTXL-TV     |TALLAHASSEE              |FL |27 
+WUAB        |LORAIN                   |OH |43 
+WUCF-TV     |ORLANDO                  |FL |24 
+WUCW        |MINNEAPOLIS              |MN |23 
+WUFT        |GAINESVILLE              |FL |5  
+WUHF        |ROCHESTER                |NY |31 
+WUJA        |CAGUAS                   |PR |58 
+WUNC-TV     |CHAPEL HILL              |NC |4  
+WUND-TV     |EDENTON                  |NC |2  
+WUNE-TV     |LINVILLE                 |NC |36 
+WUNF-TV     |ASHEVILLE                |NC |33 
+WUNG-TV     |CONCORD                  |NC |58 
+WUNI        |MARLBOROUGH              |MA |66 
+WUNJ-TV     |WILMINGTON               |NC |39 
+WUNK-TV     |GREENVILLE               |NC |25 
+WUNL-TV     |WINSTON-SALEM            |NC |26 
+WUNM-TV     |JACKSONVILLE             |NC |19 
+WUNP-TV     |ROANOKE RAPIDS           |NC |36 
+WUNU        |LUMBERTON                |NC |31 
+WUNW        |CANTON                   |NC |27 
+WUPA        |ATLANTA                  |GA |69 
+WUPL        |SLIDELL                  |LA |54 
+WUPV        |ASHLAND                  |VA |65 
+WUPW        |TOLEDO                   |OH |36 
+WUPX-TV     |RICHMOND                 |KY |67 
+WUSA        |WASHINGTON               |DC |9  
+WUSF-TV     |TAMPA                    |FL |16 
+WUSI-TV     |OLNEY                    |IL |16 
+WUTB        |BALTIMORE                |MD |24 
+WUTF-DT     |MARLBOROUGH              |MA |66 
+WUTF-TV     |WORCESTER                |MA |27 
+WUTR        |UTICA                    |NY |20 
+WUTV        |BUFFALO                  |NY |29 
+WUVC-DT     |FAYETTEVILLE             |NC |40 
+WUVG-DT     |ATHENS                   |GA |34 
+WUVN        |HARTFORD                 |CT |18 
+WUVP-DT     |VINELAND                 |NJ |65 
+WUXP-TV     |NASHVILLE                |TN |30 
+WVAH-TV     |CHARLESTON               |WV |11 
+WVAN-TV     |SAVANNAH                 |GA |9  
+WVBT        |VIRGINIA BEACH           |VA |43 
+WVCY-TV     |MILWAUKEE                |WI |30 
+WVEA-TV     |TAMPA                    |FL |50 
+WVEA-TV     |VENICE                   |FL |62 
+WVEC        |HAMPTON                  |VA |13 
+WVEN-TV     |MELBOURNE                |FL |43 
+WVEO        |AGUADILLA                |PR |18 
+WVER        |RUTLAND                  |VT |28 
+WVFX        |CLARKSBURG               |WV |46 
+WVIA-TV     |SCRANTON                 |PA |44 
+WVII-TV     |BANGOR                   |ME |7  
+WVIR-TV     |CHARLOTTESVILLE          |VA |29 
+WVIT        |NEW BRITAIN              |CT |30 
+WVIZ        |CLEVELAND                |OH |25 
+WVLA-TV     |BATON ROUGE              |LA |33 
+WVLR        |TAZEWELL                 |TN |48 
+WVLT-TV     |KNOXVILLE                |TN |8  
+WVNS-TV     |LEWISBURG                |WV |59 
+WVNY        |BURLINGTON               |VT |22 
+WVOZ-TV     |PONCE                    |PR |18 
+WVPB-TV     |HUNTINGTON               |WV |33 
+WVPX-TV     |AKRON                    |OH |23 
+WVPY        |FRONT ROYAL              |VA |42 
+WVSN        |HUMACAO                  |PR |68 
+WVTA        |WINDSOR                  |VT |41 
+WVTB        |ST. JOHNSBURY            |VT |20 
+WVTM-TV     |BIRMINGHAM               |AL |13 
+WVTV        |MILWAUKEE                |WI |18 
+WVUA        |TUSCALOOSA               |AL |23 
+WVUE-DT     |NEW ORLEANS              |LA |8  
+WVUT        |VINCENNES                |IN |22 
+WVVA        |BLUEFIELD                |WV |6  
+WVXF        |CHARLOTTE AMALIE         |VI |17 
+WWAY        |WILMINGTON               |NC |3  
+WWBT        |RICHMOND                 |VA |12 
+WWCP-TV     |JOHNSTOWN                |PA |8  
+WWCW        |LYNCHBURG                |VA |21 
+WWDP        |NORWELL                  |MA |46 
+WWHO        |CHILLICOTHE              |OH |53 
+WWJ-TV      |DETROIT                  |MI |62 
+WWJX        |JACKSON                  |MS |51 
+WWLP        |SPRINGFIELD              |MA |22 
+WWL-TV      |NEW ORLEANS              |LA |4  
+WWMB        |FLORENCE                 |SC |21 
+WWMT        |KALAMAZOO                |MI |3  
+WWNY-TV     |CARTHAGE                 |NY |7  
+WWOR-TV     |SECAUCUS                 |NJ |9  
+WWPB        |HAGERSTOWN               |MD |31 
+WWPX-TV     |MARTINSBURG              |WV |60 
+WWRS-TV     |MAYVILLE                 |WI |52 
+WWSB        |SARASOTA                 |FL |40 
+WWSI        |MOUNT LAUREL             |NJ |62 
+WWTI        |WATERTOWN                |NY |50 
+WWTO-TV     |NAPERVILLE               |IL |35 
+WWTV        |CADILLAC                 |MI |9  
+WWTW        |SENATOBIA                |MS |34 
+WWUP-TV     |SAULT STE. MARIE         |MI |10 
+WXBU        |LANCASTER                |PA |15 
+WXCW        |NAPLES                   |FL |46 
+WXEL-TV     |BOYNTON BEACH            |FL |42 
+WXFT-DT     |AURORA                   |IL |60 
+WXGA-TV     |WAYCROSS                 |GA |8  
+WXIA-TV     |ATLANTA                  |GA |11 
+WXII-TV     |WINSTON-SALEM            |NC |12 
+WXIN        |INDIANAPOLIS             |IN |59 
+WXIX-TV     |NEWPORT                  |KY |19 
+WXLV-TV     |WINSTON-SALEM            |NC |45 
+WXMI        |GRAND RAPIDS             |MI |17 
+WXOW        |LA CROSSE                |WI |19 
+WXPX-TV     |BRADENTON                |FL |66 
+WXTV-DT     |PATERSON                 |NJ |41 
+WXTX        |COLUMBUS                 |GA |54 
+WXVT        |GREENVILLE               |MS |15 
+WXXA-TV     |ALBANY                   |NY |23 
+WXXI-TV     |ROCHESTER                |NY |21 
+WXXV-TV     |GULFPORT                 |MS |25 
+WXYZ-TV     |DETROIT                  |MI |7  
+WYCC        |CHICAGO                  |IL |20 
+WYCI        |SARANAC LAKE             |NY |40 
+WYCW        |ASHEVILLE                |NC |62 
+WYDC        |CORNING                  |NY |48 
+WYDN        |LOWELL                   |MA |48 
+WYDO        |GREENVILLE               |NC |14 
+WYES-TV     |NEW ORLEANS              |LA |12 
+WYFF        |GREENVILLE               |SC |4  
+WYIN        |GARY                     |IN |56 
+WYMT-TV     |HAZARD                   |KY |57 
+WYOU        |SCRANTON                 |PA |22 
+WYOW        |EAGLE RIVER              |WI |34 
+WYPX-TV     |AMSTERDAM                |NY |55 
+WYTV        |YOUNGSTOWN               |OH |33 
+WYZZ-TV     |BLOOMINGTON              |IL |43 
+WZDX        |HUNTSVILLE               |AL |54 
+WZME        |BRIDGEPORT               |CT |43 
+WZMQ        |MARQUETTE                |MI |19 
+WZPX-TV     |BATTLE CREEK             |MI |43 
+WZRB        |COLUMBIA                 |SC |47 
+WZTV        |NASHVILLE                |TN |17 
+WZVI        |CHARLOTTE AMALIE         |VI |43 
+WZVN-TV     |NAPLES                   |FL |26 
+WZZM        |GRAND RAPIDS             |MI |13 
