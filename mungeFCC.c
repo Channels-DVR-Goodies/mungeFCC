@@ -40,7 +40,7 @@ const char * kHeaderSuffix = "};\n";
 
 #define kHashFilename "fccdata.hash"
 const char * kHashPrefix = "\n"
-    "prefix = \"USCallsign\"\n"
+    "prefix = \"Region\"\n"
     "mappings : {\n"
     "    ignoreCase = true\n"
     "    Separator = \" :|()[]-\"\n"

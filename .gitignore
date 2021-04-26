@@ -34,3 +34,6 @@ fccdata.txt
 /facility.dat
 /affiliate.h
 /nielsenDMA.h
+
+.idea/
+cmake-build-*/
