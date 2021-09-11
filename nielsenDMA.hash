@@ -11,7 +11,7 @@ mappings:
     # make the generated hashes case-insensitive
     ignoreCase = true
 
-    # mark these characters as 'kGenreIgnored'
+    # ignore these characters
     Ignored = " -,.&()"
 }
 

@@ -37,3 +37,4 @@ fccdata.txt
 
 .idea/
 cmake-build-*/
+/usstationdata.h
