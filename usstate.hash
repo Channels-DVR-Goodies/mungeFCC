@@ -1,0 +1,75 @@
+//
+//
+
+prefix = "USState"
+
+# the character mapping array
+# array starts out mapping one-to-one, i.e. input = output
+#
+mappings:
+{
+    ignoreCase = true
+    Separator = ",;:|_-"
+}
+
+# the strings to hash into the enum
+# if there is a comma, first string is for symbol, subsequent strings are to hash
+#
+keywords = [
+	"Alabama,Alabama,AL",
+	"Alaska,Alaska,AK",
+	"AmericanSamoa,AmericanSamoa,AS",
+	"Arizona,Arizona,AZ",
+	"Arkansas,Arkansas,AR",
+	"California,California,CA",
+	"Colorado,Colorado,CO",
+	"Connecticut,Connecticut,CT",
+	"Delaware,Delaware,DE",
+	"DistrictOfColumbia,DistrictOfColumbia,DC",
+	"Florida,Florida,FL",
+	"Georgia,Georgia,GA",
+	"Guam,Guam,GU",
+	"Hawaii,Hawaii,HI",
+	"Idaho,Idaho,ID",
+	"Illinois,Illinois,IL",
+	"Indiana,Indiana,IN",
+	"Iowa,Iowa,IA",
+	"Kansas,Kansas,KS",
+	"Kentucky,Kentucky,KY",
+	"Louisiana,Louisiana,LA",
+	"Maine,Maine,ME",
+	"Maryland,Maryland,MD",
+	"Massachusetts,Massachusetts,MA",
+	"Michigan,Michigan,MI",
+	"Minnesota,Minnesota,MN",
+	"Mississippi,Mississippi,MS",
+	"Missouri,Missouri,MO",
+	"Montana,Montana,MT",
+	"Nebraska,Nebraska,NE",
+	"Nevada,Nevada,NV",
+	"NewHampshire,NewHampshire,NH",
+	"NewJersey,NewJersey,NJ",
+	"NewMexico,NewMexico,NM",
+	"NewYork,NewYork,NY",
+	"NorthCarolina,NorthCarolina,NC",
+	"NorthDakota,NorthDakota,ND",
+	"NorthernMarianaIslands,NorthernMarianaIslands,MP",
+	"Ohio,Ohio,OH",
+	"Oklahoma,Oklahoma,OK",
+	"Oregon,Oregon,OR",
+	"Pennsylvania,Pennsylvania,PA",
+	"PuertoRico,PuertoRico,PR",
+	"RhodeIsland,RhodeIsland,RI",
+	"SouthCarolina,SouthCarolina,SC",
+	"SouthDakota,SouthDakota,SD",
+	"Tennessee,Tennessee,TN",
+	"Texas,Texas,TX",
+	"Utah,Utah,UT",
+	"Vermont,Vermont,VT",
+	"Virginia,Virginia,VA",
+	"VirginIslands,VirginIslands,VI",
+	"Washington,Washington,WA",
+	"WestVirginia,WestVirginia,WV",
+	"Wisconsin,Wisconsin,WI",
+	"Wyoming,Wyoming,WY"
+]

@@ -28,12 +28,18 @@
 *.so.*
 *.dylib
 
-fccdata.txt
-/fccdata.h
-/fccdata.hash
+# downloaded FCC database
 /facility.dat
+
+# intermediate files
 /affiliate.h
 /nielsenDMA.h
+/usstate.h
+/uscallsign.h
+
+# generated files
+/uscallsign.hash
+/usstationdata.h
 
 .idea/
 cmake-build-*/

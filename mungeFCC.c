@@ -22,6 +22,7 @@
 
 #include "affiliate.h"
 #include "nielsenDMA.h"
+#include "usstate.h"
 
 #define kHeaderFilename "usstationdata.h"
 
@@ -38,9 +39,9 @@ const char * kHeaderPrefix =
 
 const char * kHeaderSuffix = "};\n";
 
-#define kHashFilename "fccdata.hash"
+#define kHashFilename "uscallsign.hash"
 const char * kHashPrefix = "\n"
-    "prefix = \"Region\"\n"
+    "prefix = \"USCallsign\"\n"
     "mappings : {\n"
     "    ignoreCase = true\n"
     "    Separator = \" :|()[]-\"\n"
@@ -82,47 +83,47 @@ typedef enum {
     tsid_dtv,               /* 24: The assigned unique digital Transport Stream Identifier. int */
     digital_status,         /* 25: The digital status of the facility, D for Digital, H for Hybrid. char(1) */
     sat_tv,                 /* 26: To designate satellite tv stations. char(1) */
-    network_affil,	    /* 27: Current network affiliation (free text), if applicable. varchar(100) */
-    nielsen_dma,	    /* 28: Nielsen DMA. varchar(60) */
+    network_affil,	        /* 27: Current network affiliation (free text), if applicable. varchar(100) */
+    nielsen_dma,	        /* 28: Nielsen DMA. varchar(60) */
     tv_virtual_channel,	    /* 29: TV Virtual Channel. int */
     last_change_date        /* 30: The date this record was last updated. datetime */
 } tFacilityField;
 
 const char * facilityFieldAsString[] = {
-    [comm_city]           = "comm_city",           /* The city of the facility's "community served", city */
-    [comm_state]          = "comm_state",          /* The state of the facility's "community served", state */
-    [eeo_rpt_ind]         = "eeo_rpt_ind",         /* Indicates whether the station plans to or does employ five or more employees
-                                                      and therefore should submit equal employment opportunity reports, ind */
-    [fac_address1]        = "fac_address1",        /* The address of the facility. address */
-    [fac_address2]        = "fac_address2",        /* The address of the facility (continued). address */
-    [fac_callsign]        = "fac_callsign",        /* The call sign of the facility/station. callsign */
-    [fac_channel]         = "fac_channel",         /* Channel number. int */
-    [fac_city]            = "fac_city",            /* The city in which the facility is located. Also considered the Mailing City
-                                                      of the facility. city */
-    [fac_country]         = "fac_country",         /* The country of the station. country */
-    [fac_frequency]       = "fac_frequency",       /* The frequency assigned to the station. frequency */
+    [comm_city]           = "comm_city",            /* The city of the facility's "community served", city */
+    [comm_state]          = "comm_state",           /* The state of the facility's "community served", state */
+    [eeo_rpt_ind]         = "eeo_rpt_ind",          /* Indicates whether the station plans to or does employ five or more employees
+                                                         * and therefore should submit equal employment opportunity reports, ind */
+    [fac_address1]        = "fac_address1",         /* The address of the facility. address */
+    [fac_address2]        = "fac_address2",         /* The address of the facility (continued). address */
+    [fac_callsign]        = "fac_callsign",         /* The call sign of the facility/station. callsign */
+    [fac_channel]         = "fac_channel",          /* Channel number. int */
+    [fac_city]            = "fac_city",             /* The city in which the facility is located. Also
+                                                         * considered the Mailing City of the facility. city */
+    [fac_country]         = "fac_country",          /* The country of the station. country */
+    [fac_frequency]       = "fac_frequency",        /* The frequency assigned to the station. frequency */
     [fac_service]         = "fac_service",         /* Identifies the service which the facility supports. char(2) */
-    [fac_state]           = "fac_state",           /* The state in which the facility is located. The state of the mailing address.
-                                                      state */
+    [fac_state]           = "fac_state",           /* The state in which the facility is located.
+                                                         * The state of the mailing address. state */
     [fac_status_date]     = "fac_status_date",     /* The date the facility status took effect. datetime */
     [fac_type]            = "fac_type",            /* The type of the facility. varchar(3) */
     [facility_id]         = "facility_id",         /* Uniquely identifies a facility. int */
     [lic_expiration_date] = "lic_expiration_date", /* The date on which the FCC license or CP building permit expires. datetime */
     [fac_status]          = "fac_status",          /* The facility status contains the last status of the facility application
-                                                      processing. It may be CP granted, license, granted, appeal pending, STA
-                                                      granted, silent without STA, cancelled/deleted, etc. varchar(3) */
+                                                         * processing. It may be CP granted, license, granted, appeal pending, STA
+                                                         * granted, silent without STA, cancelled/deleted, etc. varchar(3) */
     [fac_zip1]            = "fac_zip1",            /* The First 5 digits of the Zipcode of the facility. char(5) */
     [fac_zip2]            = "fac_zip2",            /* The additional 4 digits of the Zipcode of the facility. char(4) */
     [station_type]        = "station_type",        /* Identifies the station as a main or an auxiliary char(1) */
     [assoc_facility_id]   = "assoc_facility_id",   /* The facility ID "associated" with the FX station (meaning, the
-                                                      facility_id that this FX station rebroadcasts), int */
+                                                         * facility_id that this FX station rebroadcasts), int */
     [callsign_eff_date]   = "callsign_eff_date",   /* The date the callsign became effective, datetime */
     [tsid_ntsc]           = "tsid_ntsc",           /* The assigned unique analog Transport Stream Identifier. int */
     [tsid_dtv]            = "tsid_dtv",            /* The assigned unique digital Transport Stream Identifier. int */
     [digital_status]      = "digital_status",      /* The digital status of the facility, D for Digital, H for Hybrid., char(1) */
     [sat_tv]              = "sat_tv",              /* To designate satellite tv stations. char(1) */
     [network_affil]       = "network_affil",       /* Current network affiliation (free text, not from a list of values),
-                                                      if applicable. varchar(100) */
+                                                         * if applicable. varchar(100) */
     [nielsen_dma]         = "nielsen_dma",         /* Nielsen DMA. varchar(60) */
     [tv_virtual_channel]  = "tv_virtual_channel",  /* TV Virtual Channel. int */
     [last_change_date]    = "last_change_date"     /* The date this record was last updated. datetime */
@@ -133,11 +134,12 @@ typedef struct sStation {
     const char *       callsign;
     tIndex             affiliate;
     const char *       city;
-    const char *       state;
+    tUSStateIndex      state;
     const char *       region;
     tNielsenDMAIndex   nielsenDMAIdx;
     int                logicalChan;
 } tStation;
+
 
 int lenTrimmed( char * field, unsigned int length )
 {
@@ -152,7 +154,6 @@ int lenTrimmed( char * field, unsigned int length )
     }
     return result;
 }
-
 
 
 void toTitleCase( char * title )
@@ -260,7 +261,7 @@ int processLine( const char * line, tStation * station )
                 }
                 station->affiliate = findHash(mapAffiliateSearch, hash );
 #if 0
-                if ( station->affiliate == kAffiliateUnknown )
+                if ( station->affiliate == kAffiliateUnset )
                 {
                     fprintf( stderr, "unknown: \"%s\"\n", field );
                 }
@@ -274,7 +275,15 @@ int processLine( const char * line, tStation * station )
             break;
 
         case comm_state: // state
-            station->state = strdup( field );
+            {
+                tHash hash = 0;
+                const char * p = field;
+                while (*p != '\0')
+                {
+                    hash = hashChar(hash, remapChar( gUSStateCharMap, *p++ ));
+                }
+                station->state = findHash(mapUSStateSearch, hash );
+            }
             break;
 
         case nielsen_dma: // Nielson demographic market
@@ -301,7 +310,8 @@ void clearStation( tStation * station )
 {
     station->next = NULL;
     station->logicalChan = 0;
-    station->affiliate = kAffiliateUnknown;
+    station->affiliate = kAffiliateUnset;
+    station->state = kUSStateUnset;
 
     if (station->callsign != NULL)
     {
@@ -311,10 +321,6 @@ void clearStation( tStation * station )
     if (station->city != NULL) {
         free( (void *)station->city);
         station->city = NULL;
-    }
-    if (station->state != NULL) {
-        free( (void *)station->state);
-        station->state = NULL;
     }
 }
 
@@ -348,12 +354,13 @@ int main( int argc, const char *argv[] )
         }
         else
         {
-            tStation *stn = head;
-            tStation *prev = NULL;
+            tStation  * stn  =  head;
+            tStation ** prev = &head;
 
-            while (stn != NULL && strcmp(stn->callsign, station->callsign) != 0) {
-                prev = stn;
-                stn = stn->next;
+            while ( stn != NULL && strcmp( stn->callsign, station->callsign ) != 0 )
+            {
+                prev = &stn->next;
+                stn  =  stn->next;
             }
             if (stn != NULL)
             {   /* it's already in the list */
@@ -361,15 +368,9 @@ int main( int argc, const char *argv[] )
             }
             else
             {   /* append to the list */
-                if (prev != NULL) {
-                    /* add to end of the list */
-                    station->next = prev->next;
-                    prev->next = station;
-                } else {
-                    /* add first entry to empty list */
-                    station->next = NULL;
-                    head = station;
-                }
+                station->next = *prev;
+                *prev = station;
+
                 /* get a fresh one */
                 station = calloc(1, sizeof(tStation));
             }
@@ -398,7 +399,7 @@ int main( int argc, const char *argv[] )
                     (int)(strlen(lookupAffiliateAsString[station->affiliate]) - 12),',',
                     station->logicalChan,
                     station->city, (int)(strlen(station->city) - 20), ',',
-                    station->state,
+                    lookupUSStateAsString[station->state],
                     lookupNielsenDMAAsString[station->nielsenDMAIdx],
                     station->next != NULL ? ',' : ' ');
         }
