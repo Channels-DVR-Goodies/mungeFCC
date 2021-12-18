@@ -43,3 +43,5 @@
 
 .idea/
 cmake-build-*/
+/usstationdata.h
+/localStationName.h

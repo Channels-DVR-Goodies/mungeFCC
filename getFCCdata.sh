@@ -7,7 +7,9 @@ set -x
 #  | cut --delimiter '|' --only-delimited -f2,11-12,39 \
 #  | sort --unique > fccdata.txt
 
-url="https://transition.fcc.gov/Bureaus/MB/Databases/cdbs/facility.zip"
-file=facility.zip
+intermediateFile="/tmp/facility.zip"
+fccUrl="https://transition.fcc.gov/Bureaus/MB/Databases/cdbs/facility.zip"
 
-curl --verbose --cipher 'DEFAULT:!DH' -o "${file}" "${url}" && unzip "${file}" && rm "${file}"
+curl --verbose --cipher 'DEFAULT:!DH' -o "${intermediateFile}" "${fccUrl}" \
+  && unzip "${intermediateFile}" \
+  && rm "${intermediateFile}"

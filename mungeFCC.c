@@ -12,11 +12,13 @@
 
 #include "mungeFCC.h"
 
-#include <ctype.h>
+#define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 #include <unistd.h>
+#include <string.h>
+#include <strings.h>
+#include <ctype.h>
 
 #include <libhashstrings.h>
 
@@ -44,14 +46,14 @@ const char * kHashPrefix = "\n"
     "prefix = \"USCallsign\"\n"
     "mappings : {\n"
     "    ignoreCase = true\n"
-    "    Separator = \" :|()[]-\"\n"
+    "    Separator = \" :|()[]\"\n"
     "}\n\n"
     "keywords = [\n";
 
 const char * kHashSuffix = "]\n";
 
-/* extracted from the documents at https://fcc.gov/media/radio/cdbs-database-public-files
-   these are arranged in the order that the fields occur on each line */
+/* extracted from the documentation at https://fcc.gov/media/radio/cdbs-database-public-files
+   these must be arranged in the order that the fields occur on each line */
 typedef enum {
     comm_city,              /*  1: The city of the community served by the facility. city */
     comm_state,             /*  2: The state of the community served by the facility. state */
@@ -122,8 +124,7 @@ const char * facilityFieldAsString[] = {
     [tsid_dtv]            = "tsid_dtv",            /* The assigned unique digital Transport Stream Identifier. int */
     [digital_status]      = "digital_status",      /* The digital status of the facility, D for Digital, H for Hybrid., char(1) */
     [sat_tv]              = "sat_tv",              /* To designate satellite tv stations. char(1) */
-    [network_affil]       = "network_affil",       /* Current network affiliation (free text, not from a list of values),
-                                                         * if applicable. varchar(100) */
+    [network_affil]       = "network_affil",       /* Current network affiliation (free text), if applicable. varchar(100) */
     [nielsen_dma]         = "nielsen_dma",         /* Nielsen DMA. varchar(60) */
     [tv_virtual_channel]  = "tv_virtual_channel",  /* TV Virtual Channel. int */
     [last_change_date]    = "last_change_date"     /* The date this record was last updated. datetime */
@@ -132,6 +133,7 @@ const char * facilityFieldAsString[] = {
 typedef struct sStation {
     struct sStation *  next;
     const char *       callsign;
+    char *             aliases;
     tIndex             affiliate;
     const char *       city;
     tUSStateIndex      state;
@@ -214,8 +216,8 @@ int processLine( const char * line, tStation * station )
         case fac_type:
             /* if it's not 'CDT' (commercial digital television) or
              * 'EDT' (educational digital television) then ignore it */
-            if (strcasecmp("CDT", field ) != 0
-                && strcasecmp("EDT", field) != 0 )
+            if ( strcasecmp("CDT", field ) != 0
+              && strcasecmp("EDT", field) != 0 )
             {
                 // fprintf(stderr, "%s - %s: \"%s\"\n", station->callsign, facilityFieldAsString[fieldNum], field);
                 return -1;
@@ -233,14 +235,31 @@ int processLine( const char * line, tStation * station )
         case fac_callsign: // station callsign
             {
                 char * dash = strchr( field, '-' );
-                if ( dash != NULL) { *dash = '\0'; }
-
-                if (strlen(field) < 3)
+                if ( dash == NULL)
                 {
-                    return -1;
+                    /* the simple case */
+                    station->callsign = strdup( field );
                 }
+                else
+                {
+                    /* there's a suffix, so generate the aliases */
+                    station->callsign = strndup( field, dash - field );
 
-                station->callsign = strdup( field );
+                    char tmpStr[20];
+                    char * s = field;
+                    char * d = tmpStr;
+                    unsigned int i = 20;
+                    do {
+                        if ( isalnum( *s ) )
+                        {
+                            *d++ = *s;
+                            --i;
+                        }
+                    } while ( *s++ != '\0' && i > 0 );
+                    *d = '\0';
+
+                    asprintf( &station->aliases, "%s,%s,%s", station->callsign, tmpStr, field );
+                }
             }
             break;
 
@@ -318,6 +337,11 @@ void clearStation( tStation * station )
         free( (void *)station->callsign);
         station->callsign = NULL;
     }
+    if (station->aliases != NULL)
+    {
+        free( (void *)station->aliases);
+        station->aliases = NULL;
+    }
     if (station->city != NULL) {
         free( (void *)station->city);
         station->city = NULL;
@@ -344,8 +368,8 @@ int main( int argc, const char *argv[] )
         }
     }
 
-    station = calloc( 1, sizeof( tStation ));
-    while (station != NULL && fgets(line, sizeof(line), inputFile) != NULL)
+    station = calloc( 1, sizeof( tStation ) );
+    while ( station != NULL && fgets( line, sizeof(line), inputFile ) != NULL )
     {
         if ( processLine( line, station ) != 0 )
         {
@@ -380,9 +404,21 @@ int main( int argc, const char *argv[] )
     FILE * hashFile = fopen(kHashFilename, "w");
     if (hashFile != NULL) {
         fprintf(hashFile, "%s", kHashPrefix);
+        char sep = ',';
         for (station = head; station != NULL; station = station->next)
         {
-            fprintf(hashFile, "\t\"%s\"%c\n", station->callsign, station->next != NULL ? ',' : ' ');
+            if ( station->next == NULL )
+            {
+                sep = ' ';
+            }
+            if ( station->aliases == NULL )
+            {
+                fprintf( hashFile, "\t\"%s\"%c\n", station->callsign, sep );
+            }
+            else
+            {
+                fprintf( hashFile,"\t\"%s,%s\"%c\n", station->callsign, station->aliases, sep );
+            }
         }
         fprintf(hashFile, "%s", kHashSuffix);
         fclose(hashFile);
